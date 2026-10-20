@@ -35,7 +35,6 @@
       -webkit-font-smoothing: antialiased;
     }
 
-    /* HEADER */
     header {
       background-color: var(--burgundy);
       color: white;
@@ -109,7 +108,6 @@
 
     .btn-header-settings:hover { background: rgba(255, 255, 255, 0.35); }
 
-    /* BANNER DÍA DE PAGOS */
     .day-banner {
       background: #fef3c7;
       color: #92400e;
@@ -139,10 +137,8 @@
     .btn-filter-today:hover { background: #d97706; }
     .btn-filter-today.active { background: var(--burgundy); }
 
-    /* CONTAINER */
     main { padding: 1.5rem 2rem; max-width: 1400px; margin: 0 auto; width: 100%; }
 
-    /* TOP STATS CARDS */
     .top-stats {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -173,7 +169,6 @@
 
     .stat-number { font-size: 1.6rem; font-weight: 800; color: var(--burgundy); margin-top: 4px; }
 
-    /* BUSCADOR Y FILTROS */
     .filters-bar {
       background: white;
       border-radius: var(--radius);
@@ -213,7 +208,6 @@
       font-weight: 500;
     }
 
-    /* KANBAN BOARD 2 COLUMNAS */
     .kanban-board {
       display: grid;
       grid-template-columns: repeat(2, 1fr);
@@ -246,7 +240,6 @@
 
     .badge-count { background: white; color: var(--text-dark); padding: 2px 8px; border-radius: 12px; font-size: 0.8rem; font-weight: 700; }
 
-    /* TARJETA DE PAGO */
     .payment-card {
       background: white;
       border-radius: 8px;
@@ -313,7 +306,6 @@
     .btn-action.undo:hover { background: #d97706; }
     .btn-action.delete:hover { background: #fee2e2; color: #dc2626; }
 
-    /* VISTA CALENDARIO */
     .calendar-view { display: none; background: white; border-radius: var(--radius); padding: 1.5rem; border: 1px solid var(--border-color); box-shadow: var(--shadow-card); }
     .calendar-header-controls { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.2rem; }
     .calendar-header-controls h2 { font-size: 1.15rem; color: var(--burgundy); font-weight: 800; text-transform: capitalize; }
@@ -333,7 +325,6 @@
     .calendar-item-box.pendiente { background: #f0fdf4; color: #166534; border-left: 3px solid #22c55e; }
     .calendar-item-box.gestionado { background: #f1f5f9; color: #94a3b8; border-left: 3px solid #cbd5e1; text-decoration: line-through; }
 
-    /* MODALES */
     .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(15, 23, 42, 0.5); backdrop-filter: blur(2px); justify-content: center; align-items: center; z-index: 1000; }
     .modal-content { background: white; border-radius: var(--radius); width: 100%; max-width: 720px; padding: 1.5rem; box-shadow: 0 10px 25px rgba(0,0,0,0.15); max-height: 90vh; overflow-y: auto; }
     .modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.2rem; padding-bottom: 0.8rem; border-bottom: 1px solid var(--border-color); }
@@ -371,7 +362,6 @@
 </head>
 <body>
 
-  <!-- ENCABEZADO AGRICOLA MAGDALENA -->
   <header>
     <div class="brand-container">
       <svg class="brand-logo-svg" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
@@ -404,7 +394,6 @@
     </div>
   </header>
 
-  <!-- BANNER DÍA DE PAGOS -->
   <div class="day-banner" id="dayBanner" style="display: none;">
     <div class="day-banner-content">
       <i class="fa-solid fa-calendar-check" style="font-size: 1.1rem;"></i>
@@ -414,7 +403,6 @@
   </div>
 
   <main>
-    <!-- MÉTRICAS KPI -->
     <div class="top-stats">
       <div class="stat-card">
         <div class="stat-title"><i class="fa-solid fa-clock" style="color:#f59e0b;"></i> Pagos Pendientes</div>
@@ -430,7 +418,6 @@
       </div>
     </div>
 
-    <!-- BUSCADOR Y FILTROS -->
     <div class="filters-bar">
       <div class="search-input-wrapper">
         <i class="fa-solid fa-magnifying-glass"></i>
@@ -441,7 +428,6 @@
       </select>
     </div>
 
-    <!-- TABLERO KANBAN DE 2 COLUMNAS -->
     <div class="kanban-board" id="boardView">
       <div class="column">
         <div class="column-header">
@@ -460,7 +446,6 @@
       </div>
     </div>
 
-    <!-- VISTA CALENDARIO CON NAVEGACIÓN Y TÍTULO DINÁMICO -->
     <div class="calendar-view" id="calendarView">
       <div class="calendar-header-controls">
         <h2 id="calendarMonthTitle">Mes Año</h2>
@@ -474,7 +459,6 @@
     </div>
   </main>
 
-  <!-- MODAL NUEVO/EDITAR PAGO -->
   <div class="modal" id="paymentModal">
     <div class="modal-content">
       <div class="modal-header">
@@ -487,9 +471,7 @@
         <div class="form-row">
           <div class="form-group">
             <label for="remitente">¿Quién envía el pago?</label>
-            <select id="remitente" class="form-control" required>
-              <!-- Dinámico por JS -->
-            </select>
+            <select id="remitente" class="form-control" required></select>
           </div>
 
           <div class="form-group">
@@ -519,7 +501,6 @@
     </div>
   </div>
 
-  <!-- MODAL AJUSTES REMITENTES -->
   <div class="modal" id="settingsModal">
     <div class="modal-content" style="max-width: 480px;">
       <div class="modal-header">
@@ -546,17 +527,16 @@
     </div>
   </div>
 
-  <!-- MODAL REPORTE DE WHATSAPP -->
   <div class="modal" id="whatsappModal">
     <div class="modal-content">
       <div class="modal-header">
         <h3 style="color: #052e16; display: flex; align-items: center; gap: 8px;">
-          <i class="fa-brands fa-whatsapp" style="color: #25d366; font-size: 1.3rem;"></i> Reporte de Pagos para WhatsApp
+          <i class="fa-brands fa-whatsapp" style="color: #25d366; font-size: 1.3rem;"></i> Reporte de Pagos Activos
         </h3>
         <i class="fa-solid fa-xmark" style="cursor: pointer; font-size: 1.2rem;" onclick="closeWhatsappModal()"></i>
       </div>
       <p style="font-size: 0.85rem; color: #4b5563; margin-bottom: 1rem;">
-        Este informe contiene todos los pagos pendientes y gestionados del sistema con su detalle completo.
+        Este informe contiene únicamente los pagos actuales que están visibles en la pantalla.
       </p>
       
       <div class="whatsapp-preview-box" id="whatsappReportText"></div>
@@ -663,7 +643,7 @@
             'Content-Type': 'application/json'
           },
           body: JSON.stringify({
-            message: 'Actualización automática desde Sistema de Pagos',
+            message: 'Actualización desde Sistema de Pagos',
             content: encodedContent,
             sha: fileSHA,
             branch: GH_BRANCH
@@ -786,6 +766,24 @@
       return now >= limite8AM;
     }
 
+    function obtenerPagosVisibles() {
+      const search = document.getElementById('searchInput').value.toLowerCase();
+      const filterRemitente = document.getElementById('filterRemitente').value;
+      const todayStr = new Date().toISOString().split('T')[0];
+
+      return pagos.filter(pago => {
+        if (filterToday && pago.fecha !== todayStr) return false;
+        if (filterRemitente && pago.remitente !== filterRemitente) return false;
+
+        const combinedText = (pago.items || []).map(i => `${i.detalle} ${i.monto} ${(i.formas || []).join(' ')} ${i.cbu} ${i.vepPagador} ${i.vepContribuyente} ${i.obsItem}`).join(' ') + ' ' + (pago.observaciones || '');
+        
+        if (search && !combinedText.toLowerCase().includes(search)) return false;
+        if (!search && esGestionadoExpirado(pago)) return false;
+
+        return true;
+      });
+    }
+
     function addItemRow(detalle = '', monto = '', formas = [], plazo = '', cbu = '', vepPagador = '', vepContribuyente = '', linkPago = '', obsItem = '') {
       const container = document.getElementById('itemsContainer');
       const idx = Date.now() + Math.random().toString(36).substring(2, 5);
@@ -896,8 +894,6 @@
     function renderBoard() {
       const listPendiente = document.getElementById('list-pendiente');
       const listGestionado = document.getElementById('list-gestionado');
-      const search = document.getElementById('searchInput').value.toLowerCase();
-      const filterRemitente = document.getElementById('filterRemitente').value;
 
       listPendiente.innerHTML = '';
       listGestionado.innerHTML = '';
@@ -905,15 +901,9 @@
       let countPendiente = 0, countGestionado = 0, countHoy = 0;
       const todayStr = new Date().toISOString().split('T')[0];
 
-      pagos.forEach(pago => {
-        if (filterToday && pago.fecha !== todayStr) return;
-        if (filterRemitente && pago.remitente !== filterRemitente) return;
+      const pagosVisibles = obtenerPagosVisibles();
 
-        const combinedText = (pago.items || []).map(i => `${i.detalle} ${i.monto} ${(i.formas || []).join(' ')} ${i.cbu} ${i.vepPagador} ${i.vepContribuyente} ${i.obsItem}`).join(' ') + ' ' + (pago.observaciones || '');
-        
-        if (search && !combinedText.toLowerCase().includes(search)) return;
-        if (!search && esGestionadoExpirado(pago)) return;
-
+      pagosVisibles.forEach(pago => {
         if (pago.fecha === todayStr) countHoy++;
 
         const isGestionado = pago.estado === 'gestionado' || pago.estado === 'pagado';
@@ -928,7 +918,6 @@
           let vepBlock = (it.vepPagador || it.vepContribuyente) ? `<div class="cbu-info" style="color: #0d9488; background: #ccfbf1;"><i class="fa-solid fa-receipt"></i> VEP - Pagador CUIT: <b>${it.vepPagador || '-'}</b> | Contribuyente CUIT: <b>${it.vepContribuyente || '-'}</b></div>` : '';
           let linkBlock = it.linkPago ? `<div class="cbu-info" style="color: #2563eb; background: #eff6ff;"><i class="fa-solid fa-link"></i> Link: <a href="${it.linkPago}" target="_blank" style="color:#2563eb; font-weight:700;">Abrir Link de Pago</a></div>` : '';
           let obsItemBlock = it.obsItem ? `<div class="item-obs-box"><i class="fa-regular fa-note-sticky"></i> <b>Nota ítem:</b> ${it.obsItem}</div>` : '';
-          
           let montoBadge = it.monto ? `<span class="item-monto-badge">$ ${it.monto}</span>` : '';
 
           itemsHtml += `
@@ -1166,15 +1155,17 @@
     }
 
     function generateWhatsappReport() {
-      if (pagos.length === 0) {
-        alert("No hay pagos registrados en la aplicación.");
+      const pagosVisibles = obtenerPagosVisibles();
+
+      if (pagosVisibles.length === 0) {
+        alert("No hay pagos activos para mostrar en el reporte.");
         return;
       }
 
-      const pendientes = pagos.filter(p => p.estado !== 'gestionado' && p.estado !== 'pagado');
-      const gestionados = pagos.filter(p => p.estado === 'gestionado' || p.estado === 'pagado');
+      const pendientes = pagosVisibles.filter(p => p.estado !== 'gestionado' && p.estado !== 'pagado');
+      const gestionados = pagosVisibles.filter(p => p.estado === 'gestionado' || p.estado === 'pagado');
 
-      let txt = `📋 *INFORME GENERAL DE PAGOS - AGRÍCOLA MAGDALENA*\n`;
+      let txt = `📋 *INFORME DE PAGOS ACTIVOS - AGRÍCOLA MAGDALENA*\n`;
       txt += `📅 *Fecha:* ${new Date().toLocaleDateString('es-AR')}\n`;
       txt += `--------------------------------------------------\n\n`;
 
@@ -1200,10 +1191,10 @@
         });
       }
 
-      txt += `✅ *PAGOS GESTIONADOS (${gestionados.length})*\n`;
+      txt += `✅ *PAGOS GESTIONADOS VIGENTES (${gestionados.length})*\n`;
       txt += `--------------------------------------------------\n`;
       if (gestionados.length === 0) {
-        txt += `_No hay pagos gestionados._\n\n`;
+        txt += `_No hay pagos gestionados en pantalla._\n\n`;
       } else {
         gestionados.forEach((p, idx) => {
           txt += `*${idx + 1}. Remitente:* ${p.remitente || 'Sin asignar'} (Fecha: ${formatDate(p.fecha)})\n`;
@@ -1234,9 +1225,9 @@
     function copyWhatsappToClipboard() {
       const textToCopy = document.getElementById('whatsappReportText').innerText;
       navigator.clipboard.writeText(textToCopy).then(() => {
-        alert("¡Reporte copiado con éxito al portapapeles!\n\nYa puedes abrir el grupo de WhatsApp y pegarlo (Ctrl + V).");
+        alert("¡Reporte copiado al portapapeles!\n\nYa podés pegarlo directamente en el grupo de WhatsApp.");
       }).catch(err => {
-        alert("No se pudo copiar automáticamente. Por favor, selecciona el texto manualmente y cópialo.");
+        alert("No se pudo copiar automáticamente. Por favor seleccioaná el texto manualmente y copialo.");
       });
     }
 
