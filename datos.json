@@ -1,29 +1,5 @@
 {
-  "pagos": [
-    {
-      "id": "1792521837797",
-      "remitente": "Santiago",
-      "fecha": "2026-10-20",
-      "items": [
-        {
-          "detalle": "EGWTSG",
-          "monto": "",
-          "formas": [
-            "Cheque Físico"
-          ],
-          "plazo": "",
-          "cbu": "",
-          "vepPagador": "",
-          "vepContribuyente": "",
-          "linkPago": "",
-          "obsItem": ""
-        }
-      ],
-      "observaciones": "",
-      "estado": "pendiente",
-      "horaCarga": "15:43"
-    }
-  ],
+  "pagos": [],
   "remitentesLista": [
     "Tomás",
     "Blas",
