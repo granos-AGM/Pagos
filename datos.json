@@ -1,4 +1,35 @@
 {
-  "pagos": [],
-  "remitentesLista": ["Tomás", "Blas", "Santiago", "Alex", "Maria Luz", "Yesi"]
+  "pagos": [
+    {
+      "id": "1792521750253",
+      "remitente": "Santiago",
+      "fecha": "2026-10-20",
+      "items": [
+        {
+          "detalle": "REFGERG",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "15:42"
+    }
+  ],
+  "remitentesLista": [
+    "Tomás",
+    "Blas",
+    "Santiago",
+    "Alex",
+    "Maria Luz",
+    "Yesi"
+  ]
 }
