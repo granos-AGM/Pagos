@@ -1,5 +1,29 @@
 {
-  "pagos": [],
+  "pagos": [
+    {
+      "id": "1792523656951",
+      "remitente": "Alex",
+      "fecha": "2026-10-20",
+      "items": [
+        {
+          "detalle": "ROVERES",
+          "monto": "560.000",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "107",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "LO RETIRA MAÑANA POR PLANTA",
+      "estado": "pendiente",
+      "horaCarga": "04:14 p.m."
+    }
+  ],
   "remitentesLista": [
     "Tomás",
     "Blas",
