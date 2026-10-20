@@ -1,30 +1,5 @@
 {
-  "pagos": [
-    {
-      "id": "1792522659356",
-      "remitente": "Santiago",
-      "fecha": "2026-10-20",
-      "items": [
-        {
-          "detalle": "fsdggv",
-          "monto": "",
-          "formas": [
-            "Cheque Físico"
-          ],
-          "plazo": "30",
-          "cbu": "",
-          "vepPagador": "",
-          "vepContribuyente": "",
-          "linkPago": "",
-          "obsItem": ""
-        }
-      ],
-      "observaciones": "",
-      "estado": "gestionado",
-      "horaCarga": "15:57",
-      "fechaGestionadoIso": "2026-10-20T18:57:40.332Z"
-    }
-  ],
+  "pagos": [],
   "remitentesLista": [
     "Tomás",
     "Blas",
