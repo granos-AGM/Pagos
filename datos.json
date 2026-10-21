@@ -20,8 +20,9 @@
         }
       ],
       "observaciones": "LO RETIRA MAÑANA POR PLANTA",
-      "estado": "pendiente",
-      "horaCarga": "04:14 p.m."
+      "estado": "gestionado",
+      "horaCarga": "04:14 p.m.",
+      "fechaGestionadoIso": "2026-10-21T18:21:23.734Z"
     }
   ],
   "remitentesLista": [
