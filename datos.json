@@ -255,6 +255,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:17 a.m."
+    },
+    {
+      "id": "1792671562411",
+      "remitente": "Tomás",
+      "fecha": "2026-10-22",
+      "items": [
+        {
+          "detalle": "IGB CORPORATIVOS",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "12 E-CHEQS MENSUALES DE $3.520.000 CADA UNO. RL PRIMERO A 15/20 DIAS FECHA DE FACTURA.",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "POR FAVOR RESPETAR LOS MONTOS DE LOS CHEQUES MENSUALES",
+      "estado": "pendiente",
+      "horaCarga": "09:19 a.m."
     }
   ],
   "remitentesLista": [
