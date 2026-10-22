@@ -71,6 +71,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:02"
+    },
+    {
+      "id": "1792670906831",
+      "remitente": "Alex",
+      "fecha": "2026-10-22",
+      "items": [
+        {
+          "detalle": "Horizonte Logistica",
+          "monto": "",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "107",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:08 a.m."
     }
   ],
   "remitentesLista": [
