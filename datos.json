@@ -94,6 +94,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:08 a.m."
+    },
+    {
+      "id": "1792670980034",
+      "remitente": "Alex",
+      "fecha": "2026-10-22",
+      "items": [
+        {
+          "detalle": "BOETO VICTOR HUGO MATEO",
+          "monto": "2.100.000",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "107",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:09 a.m."
     }
   ],
   "remitentesLista": [
