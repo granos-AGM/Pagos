@@ -186,6 +186,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:14 a.m."
+    },
+    {
+      "id": "1792671363649",
+      "remitente": "Tomás",
+      "fecha": "2026-10-22",
+      "items": [
+        {
+          "detalle": "GRANOTEC - FACTURA 28641",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:16 a.m."
     }
   ],
   "remitentesLista": [
