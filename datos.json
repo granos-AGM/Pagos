@@ -163,6 +163,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:13 a.m."
+    },
+    {
+      "id": "1792671244954",
+      "remitente": "Tomás",
+      "fecha": "2026-10-22",
+      "items": [
+        {
+          "detalle": "SERVICIOS E INSUMOS ASOCIADOS - FACTURAS 602 Y 604",
+          "monto": "",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:14 a.m."
     }
   ],
   "remitentesLista": [
