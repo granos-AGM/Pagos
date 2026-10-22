@@ -232,6 +232,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:17 a.m."
+    },
+    {
+      "id": "1792671451369",
+      "remitente": "Tomás",
+      "fecha": "2026-10-22",
+      "items": [
+        {
+          "detalle": "GRUPO EON - FACTURA 119",
+          "monto": "",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:17 a.m."
     }
   ],
   "remitentesLista": [
