@@ -284,8 +284,9 @@
         }
       ],
       "observaciones": "POR FAVOR RESPETAR LOS MONTOS DE LOS CHEQUES MENSUALES",
-      "estado": "pendiente",
-      "horaCarga": "09:19 a.m."
+      "estado": "gestionado",
+      "horaCarga": "09:19 a.m.",
+      "fechaGestionadoIso": "2026-10-22T13:18:47.638Z"
     },
     {
       "id": "1792672393540",
