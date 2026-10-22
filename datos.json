@@ -402,6 +402,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "10:12"
+    },
+    {
+      "id": "1792674777355",
+      "remitente": "Santiago",
+      "fecha": "2026-10-22",
+      "items": [
+        {
+          "detalle": "Costantino Ezequiel Matias",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "Flete"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:12"
     }
   ],
   "remitentesLista": [
