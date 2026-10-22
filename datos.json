@@ -209,6 +209,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:16 a.m."
+    },
+    {
+      "id": "1792671430141",
+      "remitente": "Tomás",
+      "fecha": "2026-10-22",
+      "items": [
+        {
+          "detalle": "DEYAPPA - FACTURA 13",
+          "monto": "",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "0720374720000006652940",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:17 a.m."
     }
   ],
   "remitentesLista": [
