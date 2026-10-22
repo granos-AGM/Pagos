@@ -279,6 +279,29 @@
       "observaciones": "POR FAVOR RESPETAR LOS MONTOS DE LOS CHEQUES MENSUALES",
       "estado": "pendiente",
       "horaCarga": "09:19 a.m."
+    },
+    {
+      "id": "1792672393540",
+      "remitente": "Maria Luz",
+      "fecha": "2026-10-22",
+      "items": [
+        {
+          "detalle": "CUELLO CLAUDIO DAVID",
+          "monto": "200.000",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:33"
     }
   ],
   "remitentesLista": [
