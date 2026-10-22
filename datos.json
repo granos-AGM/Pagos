@@ -308,6 +308,30 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:33"
+    },
+    {
+      "id": "1792674343807",
+      "remitente": "Maria Luz",
+      "fecha": "2026-10-22",
+      "items": [
+        {
+          "detalle": "HUGO M ASFURA",
+          "monto": "89322,58",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "RAUL"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:05"
     }
   ],
   "remitentesLista": [
