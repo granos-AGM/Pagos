@@ -356,6 +356,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "10:11"
+    },
+    {
+      "id": "1792674703587",
+      "remitente": "Santiago",
+      "fecha": "2026-10-22",
+      "items": [
+        {
+          "detalle": "Arias Raul Armando",
+          "monto": "",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "Flete"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:11"
     }
   ],
   "remitentesLista": [
