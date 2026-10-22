@@ -140,6 +140,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:13 a.m."
+    },
+    {
+      "id": "1792671218969",
+      "remitente": "Tomás",
+      "fecha": "2026-10-22",
+      "items": [
+        {
+          "detalle": "SMC ARGENTINA - FACTURA 131050",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:13 a.m."
     }
   ],
   "remitentesLista": [
