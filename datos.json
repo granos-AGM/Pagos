@@ -333,6 +333,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "10:05"
+    },
+    {
+      "id": "1792674674539",
+      "remitente": "Santiago",
+      "fecha": "2026-10-22",
+      "items": [
+        {
+          "detalle": "Arias Demian Adriel",
+          "monto": "",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "Flete"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:11"
     }
   ],
   "remitentesLista": [
