@@ -23,6 +23,30 @@
       "estado": "gestionado",
       "horaCarga": "04:14 p.m.",
       "fechaGestionadoIso": "2026-10-22T11:21:49.148Z"
+    },
+    {
+      "id": "1792670196324",
+      "remitente": "Maria Luz",
+      "fecha": "2026-10-22",
+      "items": [
+        {
+          "detalle": "AUMAX",
+          "monto": "1200080.42",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "15 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "08:56"
     }
   ],
   "remitentesLista": [
