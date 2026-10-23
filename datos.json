@@ -477,6 +477,29 @@
       "observaciones": "- Banco Nacion \n- Nombre del titular: GARBINI MARIA LAURA \n- N° de cuenta: CA $ 11921534541924\n- Alias: misiondxt.26 \n- CBU: 0110153530015345419247",
       "estado": "pendiente",
       "horaCarga": "02:29 p.m."
+    },
+    {
+      "id": "1792776622024",
+      "remitente": "Tomás",
+      "fecha": "2026-10-23",
+      "items": [
+        {
+          "detalle": "ROSELE SAS - FACTURA 2564",
+          "monto": "765.000",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "0070115620000007736786",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "Banco Galicia (Suc Villa Maria)\n\nNúmero de cuenta: 0007736-7 115-8\n\nCUIT: 30-71852041-6\n\nRazón Social: ROSELE S.A.S.\n \nCBU: 0070115620000007736786\n\nAlias: HOTEL.SANMARTIN.GAL",
+      "estado": "pendiente",
+      "horaCarga": "02:30 p.m."
     }
   ],
   "remitentesLista": [
