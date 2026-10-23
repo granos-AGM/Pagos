@@ -454,6 +454,29 @@
       "estado": "gestionado",
       "horaCarga": "03:50 p.m.",
       "fechaGestionadoIso": "2026-10-22T18:56:03.977Z"
+    },
+    {
+      "id": "1792776551444",
+      "remitente": "Tomás",
+      "fecha": "2026-10-23",
+      "items": [
+        {
+          "detalle": "GARBINI MARIA LAURA - FACTURA 46",
+          "monto": "3.284.000",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "0110153530015345419247",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "- Banco Nacion \n- Nombre del titular: GARBINI MARIA LAURA \n- N° de cuenta: CA $ 11921534541924\n- Alias: misiondxt.26 \n- CBU: 0110153530015345419247",
+      "estado": "pendiente",
+      "horaCarga": "02:29 p.m."
     }
   ],
   "remitentesLista": [
