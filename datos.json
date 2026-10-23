@@ -500,6 +500,29 @@
       "observaciones": "Banco Galicia (Suc Villa Maria)\n\nNúmero de cuenta: 0007736-7 115-8\n\nCUIT: 30-71852041-6\n\nRazón Social: ROSELE S.A.S.\n \nCBU: 0070115620000007736786\n\nAlias: HOTEL.SANMARTIN.GAL",
       "estado": "pendiente",
       "horaCarga": "02:30 p.m."
+    },
+    {
+      "id": "1792776804156",
+      "remitente": "Tomás",
+      "fecha": "2026-10-23",
+      "items": [
+        {
+          "detalle": "PUERTO FEMOS SRL - FACTURA 30219",
+          "monto": "3.303.730,76",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "02:33 p.m."
     }
   ],
   "remitentesLista": [
