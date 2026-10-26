@@ -639,6 +639,29 @@
       "observaciones": "MITAD EFECTIVO, MITAD CHEQUES.",
       "estado": "pendiente",
       "horaCarga": "04:14 p.m."
+    },
+    {
+      "id": "1793042131262",
+      "remitente": "Tomás",
+      "fecha": "2026-10-27",
+      "items": [
+        {
+          "detalle": "HIDRABAT",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "04:15 p.m."
     }
   ],
   "remitentesLista": [
