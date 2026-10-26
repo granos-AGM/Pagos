@@ -592,6 +592,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "04:12 p.m."
+    },
+    {
+      "id": "1793042031490",
+      "remitente": "Tomás",
+      "fecha": "2026-10-27",
+      "items": [
+        {
+          "detalle": "CORRUGADORA CENTRO - 107",
+          "monto": "",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "NO TIENE QUE SER CHEQUE PROPIO. \nME PODRAN PASAR FOTO ASI ME DAN EL OK DE LOS CHEQUES?",
+      "estado": "pendiente",
+      "horaCarga": "04:13 p.m."
     }
   ],
   "remitentesLista": [
