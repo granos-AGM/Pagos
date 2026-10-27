@@ -746,6 +746,29 @@
       "observaciones": "Alias: oliva.stihl.mp\nCVU: 0000003100008258475395\nNombre: Damian Eduardo Perez",
       "estado": "pendiente",
       "horaCarga": "10:13 a.m."
+    },
+    {
+      "id": "1793108958243",
+      "remitente": "Tomás",
+      "fecha": "2026-10-27",
+      "items": [
+        {
+          "detalle": "MADINAT ILIBERIS - FACTURAS 38 Y 36",
+          "monto": "",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:49 a.m."
     }
   ],
   "remitentesLista": [
