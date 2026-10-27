@@ -662,6 +662,30 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "04:15 p.m."
+    },
+    {
+      "id": "1793101536030",
+      "remitente": "Tomás",
+      "fecha": "2026-10-27",
+      "items": [
+        {
+          "detalle": "TADEO GALBAÑO - FACTURAS 2796 Y 2794",
+          "monto": "",
+          "formas": [
+            "Cheque Físico",
+            "Efectivo / Otro"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "MITAD EFECTIVO, MITAD CHEQUES",
+      "estado": "pendiente",
+      "horaCarga": "08:45 a.m."
     }
   ],
   "remitentesLista": [
