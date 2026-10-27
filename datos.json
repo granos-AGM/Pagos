@@ -477,8 +477,9 @@
         }
       ],
       "observaciones": "- Banco Nacion \n- Nombre del titular: GARBINI MARIA LAURA \n- N° de cuenta: CA $ 11921534541924\n- Alias: misiondxt.26 \n- CBU: 0110153530015345419247",
-      "estado": "pendiente",
-      "horaCarga": "02:29 p.m."
+      "estado": "gestionado",
+      "horaCarga": "02:29 p.m.",
+      "fechaGestionadoIso": "2026-10-27T12:29:54.388Z"
     },
     {
       "id": "1792776622024",
