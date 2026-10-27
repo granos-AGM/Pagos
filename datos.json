@@ -717,8 +717,9 @@
         }
       ],
       "observaciones": "Fecha de la factura: 19-10-2026",
-      "estado": "pendiente",
-      "horaCarga": "08:49 a.m."
+      "estado": "gestionado",
+      "horaCarga": "08:49 a.m.",
+      "fechaGestionadoIso": "2026-10-27T13:18:02.660Z"
     },
     {
       "id": "1793106811410",
