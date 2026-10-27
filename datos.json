@@ -686,6 +686,29 @@
       "observaciones": "MITAD EFECTIVO, MITAD CHEQUES",
       "estado": "pendiente",
       "horaCarga": "08:45 a.m."
+    },
+    {
+      "id": "1793101750014",
+      "remitente": "Tomás",
+      "fecha": "2026-10-27",
+      "items": [
+        {
+          "detalle": "BLEVEL SA - N° Factura: 03-2583 (RAUL)",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 dias FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "Fecha de la factura: 19-10-2026",
+      "estado": "pendiente",
+      "horaCarga": "08:49 a.m."
     }
   ],
   "remitentesLista": [
