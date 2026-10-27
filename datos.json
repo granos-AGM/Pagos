@@ -388,29 +388,6 @@
       "fechaGestionadoIso": "2026-10-27T13:39:13.569Z"
     },
     {
-      "id": "1792674744707",
-      "remitente": "Santiago",
-      "fecha": "2026-10-22",
-      "items": [
-        {
-          "detalle": "Beltramo Jose y Beltramo Estela SH",
-          "monto": "",
-          "formas": [
-            "E-Cheque"
-          ],
-          "plazo": "",
-          "cbu": "",
-          "vepPagador": "",
-          "vepContribuyente": "",
-          "linkPago": "",
-          "obsItem": "Flete"
-        }
-      ],
-      "observaciones": "",
-      "estado": "pendiente",
-      "horaCarga": "10:12"
-    },
-    {
       "id": "1792674777355",
       "remitente": "Santiago",
       "fecha": "2026-10-22",
