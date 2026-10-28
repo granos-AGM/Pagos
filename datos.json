@@ -813,6 +813,29 @@
       "observaciones": "PAGO SOLICITADO POR ROCIO, NO ESPECIFICA EFECTIVO O CHEQUES, CUALQUIER COSA CONSULTARLE A ELLA.",
       "estado": "pendiente",
       "horaCarga": "11:02 a.m."
+    },
+    {
+      "id": "1793197478236",
+      "remitente": "Tomás",
+      "fecha": "2026-10-29",
+      "items": [
+        {
+          "detalle": "Isaias Miguel Goldman - N° Factura: 15-40485 (RAUL)",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 dias",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "Fecha de Factura: 21-10-2026 - Tiene una Nota de Credito N° de  N/C 15-3899 Fecha: 22-10-2026",
+      "estado": "pendiente",
+      "horaCarga": "11:24 a.m."
     }
   ],
   "remitentesLista": [
