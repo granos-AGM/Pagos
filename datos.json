@@ -792,6 +792,27 @@
       "observaciones": "PAGO SOLICITADO POR ROCIO, NO ESPECIFICA EFECTIVO O CHEQUES, CUALQUIER COSA CONSULTARLE A ELLA.",
       "estado": "pendiente",
       "horaCarga": "11:00 a.m."
+    },
+    {
+      "id": "1793196143041",
+      "remitente": "Tomás",
+      "fecha": "2026-10-29",
+      "items": [
+        {
+          "detalle": "REPOSICION ROCIO REMERAS MARATON",
+          "monto": "585.000",
+          "formas": [],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "PAGO SOLICITADO POR ROCIO, NO ESPECIFICA EFECTIVO O CHEQUES, CUALQUIER COSA CONSULTARLE A ELLA.",
+      "estado": "pendiente",
+      "horaCarga": "11:02 a.m."
     }
   ],
   "remitentesLista": [
