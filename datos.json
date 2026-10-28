@@ -771,6 +771,27 @@
       "observaciones": "RAZON SOCIAL: APOSTOLO RUBEN Y\nSANTAMARIA GUILLERMO\nCUIT: 30-70985485-9\nalias graficascala",
       "estado": "pendiente",
       "horaCarga": "10:59 a.m."
+    },
+    {
+      "id": "1793196054157",
+      "remitente": "Tomás",
+      "fecha": "2026-10-29",
+      "items": [
+        {
+          "detalle": "SONIDO MARATON",
+          "monto": "900.000",
+          "formas": [],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "PAGO SOLICITADO POR ROCIO, NO ESPECIFICA EFECTIVO O CHEQUES, CUALQUIER COSA CONSULTARLE A ELLA.",
+      "estado": "pendiente",
+      "horaCarga": "11:00 a.m."
     }
   ],
   "remitentesLista": [
