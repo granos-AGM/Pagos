@@ -748,6 +748,29 @@
       "estado": "gestionado",
       "horaCarga": "10:49 a.m.",
       "fechaGestionadoIso": "2026-10-27T13:59:29.540Z"
+    },
+    {
+      "id": "1793195979159",
+      "remitente": "Tomás",
+      "fecha": "2026-10-29",
+      "items": [
+        {
+          "detalle": "APOSTOLO RUBEN O Y SANTAMARIA GUILLERMO - FACTURA 6753",
+          "monto": "544.500",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "2850321730000000349010",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "RAZON SOCIAL: APOSTOLO RUBEN Y\nSANTAMARIA GUILLERMO\nCUIT: 30-70985485-9\nalias graficascala",
+      "estado": "pendiente",
+      "horaCarga": "10:59 a.m."
     }
   ],
   "remitentesLista": [
