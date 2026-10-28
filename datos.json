@@ -859,6 +859,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "04:49 p.m."
+    },
+    {
+      "id": "1793216985469",
+      "remitente": "Tomás",
+      "fecha": "2026-10-29",
+      "items": [
+        {
+          "detalle": "Mendio - N° Factura: 10-32245 (RAUL)",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 dias",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "04:49 p.m."
     }
   ],
   "remitentesLista": [
