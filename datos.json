@@ -836,6 +836,29 @@
       "observaciones": "Fecha de Factura: 21-10-2026 - Tiene una Nota de Credito N° de  N/C 15-3899 Fecha: 22-10-2026",
       "estado": "pendiente",
       "horaCarga": "11:24 a.m."
+    },
+    {
+      "id": "1793216958952",
+      "remitente": "Tomás",
+      "fecha": "2026-10-29",
+      "items": [
+        {
+          "detalle": "Apromax - N° Factura: 06-7186 (RAUL)",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 dias",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "04:49 p.m."
     }
   ],
   "remitentesLista": [
