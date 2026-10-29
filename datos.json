@@ -996,6 +996,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "10:44 a.m."
+    },
+    {
+      "id": "1793281501032",
+      "remitente": "Tomás",
+      "fecha": "2026-10-29",
+      "items": [
+        {
+          "detalle": "BATTAGLIA SRL - FACTURA 35103",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:45 a.m."
     }
   ],
   "remitentesLista": [
