@@ -838,8 +838,9 @@
         }
       ],
       "observaciones": "Fecha de Factura: 21-10-2026 - Tiene una Nota de Credito N° de  N/C 15-3899 Fecha: 22-10-2026",
-      "estado": "pendiente",
-      "horaCarga": "11:24 a.m."
+      "estado": "gestionado",
+      "horaCarga": "11:24 a.m.",
+      "fechaGestionadoIso": "2026-10-29T12:40:38.940Z"
     },
     {
       "id": "1793216958952",
