@@ -950,6 +950,29 @@
       "estado": "gestionado",
       "horaCarga": "08:58",
       "fechaGestionadoIso": "2026-10-29T13:06:37.749Z"
+    },
+    {
+      "id": "1793281462325",
+      "remitente": "Tomás",
+      "fecha": "2026-10-29",
+      "items": [
+        {
+          "detalle": "GRANOTEC",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:44 a.m."
     }
   ],
   "remitentesLista": [
