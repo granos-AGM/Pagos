@@ -1092,6 +1092,29 @@
       "observaciones": "Banco Galicia\nAGOSTINA VIOLA\nCTA: 4010171-0 281-1\nCBU: 0070281430004010171016\nALIAS: AGO.VIOLA\nCUIL: 27-40027393-1",
       "estado": "pendiente",
       "horaCarga": "10:47 a.m."
+    },
+    {
+      "id": "1793282944648",
+      "remitente": "Alex",
+      "fecha": "2026-10-29",
+      "items": [
+        {
+          "detalle": "TRANSPORTE LOS JOAQUINES",
+          "monto": "$2.917.500",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "107",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "AFECTAR NC"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "11:09 a.m."
     }
   ],
   "remitentesLista": [
