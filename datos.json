@@ -600,8 +600,9 @@
         }
       ],
       "observaciones": "NO TIENE QUE SER CHEQUE PROPIO. \nME PODRAN PASAR FOTO ASI ME DAN EL OK DE LOS CHEQUES?",
-      "estado": "pendiente",
-      "horaCarga": "04:13 p.m."
+      "estado": "gestionado",
+      "horaCarga": "04:13 p.m.",
+      "fechaGestionadoIso": "2026-10-29T12:29:05.839Z"
     },
     {
       "id": "1793042071966",
