@@ -1042,6 +1042,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "10:45 a.m."
+    },
+    {
+      "id": "1793281537950",
+      "remitente": "Tomás",
+      "fecha": "2026-10-29",
+      "items": [
+        {
+          "detalle": "RAUL ANTONIO RE - FACTURA 10673",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:45 a.m."
     }
   ],
   "remitentesLista": [
