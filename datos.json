@@ -971,8 +971,9 @@
         }
       ],
       "observaciones": "",
-      "estado": "pendiente",
-      "horaCarga": "10:44 a.m."
+      "estado": "gestionado",
+      "horaCarga": "10:44 a.m.",
+      "fechaGestionadoIso": "2026-10-29T13:54:10.342Z"
     },
     {
       "id": "1793281483090",
