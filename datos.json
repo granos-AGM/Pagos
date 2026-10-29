@@ -1019,6 +1019,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "10:45 a.m."
+    },
+    {
+      "id": "1793281521508",
+      "remitente": "Tomás",
+      "fecha": "2026-10-29",
+      "items": [
+        {
+          "detalle": "RUBIOLO MARCO JOSE - FACTURA 9507",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:45 a.m."
     }
   ],
   "remitentesLista": [
