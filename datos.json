@@ -1065,6 +1065,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "10:45 a.m."
+    },
+    {
+      "id": "1793281657091",
+      "remitente": "Tomás",
+      "fecha": "2026-10-29",
+      "items": [
+        {
+          "detalle": "VIOLA AGOSTINA",
+          "monto": "800.000",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "Banco Galicia\nAGOSTINA VIOLA\nCTA: 4010171-0 281-1\nCBU: 0070281430004010171016\nALIAS: AGO.VIOLA\nCUIL: 27-40027393-1",
+      "estado": "pendiente",
+      "horaCarga": "10:47 a.m."
     }
   ],
   "remitentesLista": [
