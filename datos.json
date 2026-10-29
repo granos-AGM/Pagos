@@ -811,8 +811,9 @@
         }
       ],
       "observaciones": "PAGO SOLICITADO POR ROCIO, NO ESPECIFICA EFECTIVO O CHEQUES, CUALQUIER COSA CONSULTARLE A ELLA.",
-      "estado": "pendiente",
-      "horaCarga": "11:02 a.m."
+      "estado": "gestionado",
+      "horaCarga": "11:02 a.m.",
+      "fechaGestionadoIso": "2026-10-29T11:34:50.609Z"
     },
     {
       "id": "1793197478236",
