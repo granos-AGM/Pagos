@@ -906,6 +906,42 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "04:50 p.m."
+    },
+    {
+      "id": "1793275095782",
+      "remitente": "Blas",
+      "fecha": "2026-10-29",
+      "items": [
+        {
+          "detalle": "MARTOLIO NEUMATICOS",
+          "monto": "5122774",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "0-30-60-90-120-150-180",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        },
+        {
+          "detalle": "SASIA GERMAN",
+          "monto": "720000",
+          "formas": [
+            "Efectivo / Otro"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "ES EL GOMERO DE JUNTURAS- SI LO PUEDE PASAR A LLEVAR EL LALO HOY MEJOR"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "08:58"
     }
   ],
   "remitentesLista": [
