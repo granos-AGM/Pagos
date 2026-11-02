@@ -1188,30 +1188,6 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "15:10"
-    },
-    {
-      "id": "1793644382841",
-      "remitente": "Maria Luz",
-      "fecha": "2026-11-02",
-      "items": [
-        {
-          "detalle": "ALDO F BENITO",
-          "monto": "986.983,22",
-          "formas": [
-            "E-Cheque",
-            "Cheque Físico"
-          ],
-          "plazo": "30 DIAS FF",
-          "cbu": "",
-          "vepPagador": "",
-          "vepContribuyente": "",
-          "linkPago": "",
-          "obsItem": ""
-        }
-      ],
-      "observaciones": "",
-      "estado": "pendiente",
-      "horaCarga": "15:33"
     }
   ],
   "remitentesLista": [
