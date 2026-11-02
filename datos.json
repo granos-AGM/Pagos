@@ -1236,6 +1236,30 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "15:36"
+    },
+    {
+      "id": "1793644653314",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "POLOELECTRIC",
+          "monto": "3.717.061,92",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "15:37"
     }
   ],
   "remitentesLista": [
