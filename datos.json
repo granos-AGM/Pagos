@@ -1165,6 +1165,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "12:17"
+    },
+    {
+      "id": "1793643014230",
+      "remitente": "Santiago",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "VISCA NEUMATICOS / FA 10-1214",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30-60-90-120-150 DIAS",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "15:10"
     }
   ],
   "remitentesLista": [
