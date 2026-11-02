@@ -1118,6 +1118,30 @@
       "estado": "gestionado",
       "horaCarga": "11:09 a.m.",
       "fechaGestionadoIso": "2026-10-29T14:58:32.725Z"
+    },
+    {
+      "id": "1793618682641",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "ABELCAR",
+          "monto": "877116.75",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "08:24"
     }
   ],
   "remitentesLista": [
