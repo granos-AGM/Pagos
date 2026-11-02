@@ -1142,6 +1142,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "08:24"
+    },
+    {
+      "id": "1793618962439",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "APROSS",
+          "monto": "521500",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "08:29"
     }
   ],
   "remitentesLista": [
