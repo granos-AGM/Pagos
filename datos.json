@@ -1428,6 +1428,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:11 a.m."
+    },
+    {
+      "id": "1793707933731",
+      "remitente": "Tomás",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "JOSE MIGUEL BESSONE - FACTURA 4964",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:12 a.m."
     }
   ],
   "remitentesLista": [
