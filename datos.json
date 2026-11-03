@@ -1685,6 +1685,29 @@
       "observaciones": "CBL\n\nAlias\n\nBanco\n\nTipo de cuenta\n\nMoneda\n\nNúmero de cuenta\n\n0720374720000006652940\n\nBASTO.NUEZ.VOCECILLA\n\nSantander\n\nCuenta corriente\n\nPesos\n\n374-066529/4",
       "estado": "pendiente",
       "horaCarga": "09:24 a.m."
+    },
+    {
+      "id": "1793708724353",
+      "remitente": "Tomás",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "BARBIERI JORGE ANTONIO - FACTURA 291026",
+          "monto": "",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:25 a.m."
     }
   ],
   "remitentesLista": [
