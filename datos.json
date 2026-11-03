@@ -1710,6 +1710,30 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:25 a.m."
+    },
+    {
+      "id": "1793708962872",
+      "remitente": "Tomás",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "PEREZ ARIEL ALBERTO - FACTURA 22",
+          "monto": "",
+          "formas": [
+            "Cheque Físico",
+            "107"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:29 a.m."
     }
   ],
   "remitentesLista": [
