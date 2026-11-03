@@ -1545,6 +1545,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:18 a.m."
+    },
+    {
+      "id": "1793708428982",
+      "remitente": "Tomás",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "CASA ROSSA",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:20 a.m."
     }
   ],
   "remitentesLista": [
