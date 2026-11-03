@@ -1599,8 +1599,9 @@
         }
       ],
       "observaciones": "SOLO LAS FACTURAS MAS VIEJAS",
-      "estado": "pendiente",
-      "horaCarga": "09:20 a.m."
+      "estado": "gestionado",
+      "horaCarga": "09:20 a.m.",
+      "fechaGestionadoIso": "2026-11-03T12:54:58.301Z"
     },
     {
       "id": "1793708499449",
