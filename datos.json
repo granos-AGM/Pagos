@@ -1260,6 +1260,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "15:37"
+    },
+    {
+      "id": "1793705389858",
+      "remitente": "Alex",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "MEDINA ABEL DARIO",
+          "monto": "4.857.900",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "107 (FLETE IND)",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "08:29 a.m."
     }
   ],
   "remitentesLista": [
