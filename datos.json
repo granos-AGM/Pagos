@@ -1283,6 +1283,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "08:29 a.m."
+    },
+    {
+      "id": "1793706000221",
+      "remitente": "Alex",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "LOGISTICA TRANLEB S.A.S",
+          "monto": "3.670.000",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "30 FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "107 (FLETE IND)",
+      "estado": "pendiente",
+      "horaCarga": "08:40 a.m."
     }
   ],
   "remitentesLista": [
