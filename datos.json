@@ -1789,8 +1789,9 @@
         }
       ],
       "observaciones": "MISMA FORMA DE PAGO ULTIMA VEZ",
-      "estado": "pendiente",
-      "horaCarga": "09:47 a.m."
+      "estado": "gestionado",
+      "horaCarga": "09:47 a.m.",
+      "fechaGestionadoIso": "2026-11-03T13:19:17.363Z"
     }
   ],
   "remitentesLista": [
