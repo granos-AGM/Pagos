@@ -1521,6 +1521,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:17 a.m."
+    },
+    {
+      "id": "1793708291983",
+      "remitente": "Tomás",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "NELIO PIGNATTA - FACTURA 3331",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:18 a.m."
     }
   ],
   "remitentesLista": [
