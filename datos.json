@@ -1379,6 +1379,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "08:55"
+    },
+    {
+      "id": "1793707128739",
+      "remitente": "Alex",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "FORASTIERI MARISA ELIZABET",
+          "monto": "2.080.000",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "30 FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "107 (FLETE IND)"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "08:58 a.m."
     }
   ],
   "remitentesLista": [
