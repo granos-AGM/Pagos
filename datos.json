@@ -1624,8 +1624,9 @@
         }
       ],
       "observaciones": "TODOS LOS CHEQUES DEL MISMO MONTO.",
-      "estado": "pendiente",
-      "horaCarga": "09:21 a.m."
+      "estado": "gestionado",
+      "horaCarga": "09:21 a.m.",
+      "fechaGestionadoIso": "2026-11-03T13:00:31.738Z"
     },
     {
       "id": "1793708535606",
