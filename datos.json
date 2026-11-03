@@ -1615,6 +1615,30 @@
       "observaciones": "TODOS LOS CHEQUES DEL MISMO MONTO.",
       "estado": "pendiente",
       "horaCarga": "09:21 a.m."
+    },
+    {
+      "id": "1793708535606",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "FERRET IND BARCELLONA",
+          "monto": "338.948,06",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:22"
     }
   ],
   "remitentesLista": [
