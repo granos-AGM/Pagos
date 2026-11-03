@@ -1763,6 +1763,27 @@
       "observaciones": "Alias: NAKASE.ICBC.PESOS",
       "estado": "pendiente",
       "horaCarga": "09:30 a.m."
+    },
+    {
+      "id": "1793710068264",
+      "remitente": "Tomás",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "SGS ARGENTINA SA - FACTURA 134695",
+          "monto": "",
+          "formas": [],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "MISMA FORMA DE PAGO ULTIMA VEZ",
+      "estado": "pendiente",
+      "horaCarga": "09:47 a.m."
     }
   ],
   "remitentesLista": [
