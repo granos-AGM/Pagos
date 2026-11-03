@@ -1697,8 +1697,9 @@
         }
       ],
       "observaciones": "CBL\n\nAlias\n\nBanco\n\nTipo de cuenta\n\nMoneda\n\nNúmero de cuenta\n\n0720374720000006652940\n\nBASTO.NUEZ.VOCECILLA\n\nSantander\n\nCuenta corriente\n\nPesos\n\n374-066529/4",
-      "estado": "pendiente",
-      "horaCarga": "09:24 a.m."
+      "estado": "gestionado",
+      "horaCarga": "09:24 a.m.",
+      "fechaGestionadoIso": "2026-11-03T13:27:45.135Z"
     },
     {
       "id": "1793708724353",
