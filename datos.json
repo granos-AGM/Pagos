@@ -1568,6 +1568,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:20 a.m."
+    },
+    {
+      "id": "1793708452554",
+      "remitente": "Tomás",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "CARAES",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "45-60 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "SOLO LAS FACTURAS MAS VIEJAS",
+      "estado": "pendiente",
+      "horaCarga": "09:20 a.m."
     }
   ],
   "remitentesLista": [
