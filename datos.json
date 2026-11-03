@@ -1405,6 +1405,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "08:58 a.m."
+    },
+    {
+      "id": "1793707912241",
+      "remitente": "Tomás",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "HIDRABAT - FACTURA 1936",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:11 a.m."
     }
   ],
   "remitentesLista": [
