@@ -1311,8 +1311,9 @@
         }
       ],
       "observaciones": "107 (FLETE IND)",
-      "estado": "pendiente",
-      "horaCarga": "08:40 a.m."
+      "estado": "gestionado",
+      "horaCarga": "08:40 a.m.",
+      "fechaGestionadoIso": "2026-11-03T12:21:45.660Z"
     },
     {
       "id": "1793706302676",
