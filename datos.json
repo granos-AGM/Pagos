@@ -1639,6 +1639,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:22"
+    },
+    {
+      "id": "1793708649544",
+      "remitente": "Tomás",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "DELBONO ANDREA SUSANA - FACTURA 4062",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "45 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:24 a.m."
     }
   ],
   "remitentesLista": [
