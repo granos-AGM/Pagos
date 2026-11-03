@@ -1451,6 +1451,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:12 a.m."
+    },
+    {
+      "id": "1793707975075",
+      "remitente": "Tomás",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "PODIO REFRIGERACION - FACTURAS 269, 270 Y 271",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "0-30-60 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:12 a.m."
     }
   ],
   "remitentesLista": [
