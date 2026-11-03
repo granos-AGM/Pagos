@@ -1354,6 +1354,27 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "08:48 a.m."
+    },
+    {
+      "id": "1793706844658",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "DYGELEC",
+          "monto": "",
+          "formas": [],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "08:54"
     }
   ],
   "remitentesLista": [
