@@ -1591,6 +1591,29 @@
       "observaciones": "SOLO LAS FACTURAS MAS VIEJAS",
       "estado": "pendiente",
       "horaCarga": "09:20 a.m."
+    },
+    {
+      "id": "1793708499449",
+      "remitente": "Tomás",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "MO-DE SAS - FACTURA 293",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "0-30-60-90-120-150-180",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "TODOS LOS CHEQUES DEL MISMO MONTO.",
+      "estado": "pendiente",
+      "horaCarga": "09:21 a.m."
     }
   ],
   "remitentesLista": [
