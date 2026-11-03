@@ -1498,6 +1498,29 @@
       "observaciones": "Banco Galicia\n\nMARISA VERONICA GODOY\n\nCTA: 4015047-9 115-0\n\nCBU: 00701156-30004015047903\n\nALIAS: BASTON.PILETA.AMIGA\n\nCUIL: 27-24703097-8",
       "estado": "pendiente",
       "horaCarga": "09:17 a.m."
+    },
+    {
+      "id": "1793708270230",
+      "remitente": "Tomás",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "DAPQUIM - FACTURA 30096",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:17 a.m."
     }
   ],
   "remitentesLista": [
