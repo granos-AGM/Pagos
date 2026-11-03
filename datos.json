@@ -1475,6 +1475,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:12 a.m."
+    },
+    {
+      "id": "1793708250081",
+      "remitente": "Tomás",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "GODOY MARISA VERONICA - FACTURA 1518",
+          "monto": "",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "Banco Galicia\n\nMARISA VERONICA GODOY\n\nCTA: 4015047-9 115-0\n\nCBU: 00701156-30004015047903\n\nALIAS: BASTON.PILETA.AMIGA\n\nCUIL: 27-24703097-8",
+      "estado": "pendiente",
+      "horaCarga": "09:17 a.m."
     }
   ],
   "remitentesLista": [
