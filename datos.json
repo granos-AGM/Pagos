@@ -1734,6 +1734,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:29 a.m."
+    },
+    {
+      "id": "1793709004512",
+      "remitente": "Tomás",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "NAKASE - FACTURA 31189",
+          "monto": "",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "Alias: NAKASE.ICBC.PESOS",
+      "estado": "pendiente",
+      "horaCarga": "09:30 a.m."
     }
   ],
   "remitentesLista": [
