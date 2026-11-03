@@ -1767,8 +1767,9 @@
         }
       ],
       "observaciones": "Alias: NAKASE.ICBC.PESOS",
-      "estado": "pendiente",
-      "horaCarga": "09:30 a.m."
+      "estado": "gestionado",
+      "horaCarga": "09:30 a.m.",
+      "fechaGestionadoIso": "2026-11-03T13:15:22.817Z"
     },
     {
       "id": "1793710068264",
