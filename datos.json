@@ -1306,6 +1306,30 @@
       "observaciones": "107 (FLETE IND)",
       "estado": "pendiente",
       "horaCarga": "08:40 a.m."
+    },
+    {
+      "id": "1793706302676",
+      "remitente": "Alex",
+      "fecha": "2026-11-03",
+      "items": [
+        {
+          "detalle": "HORIZONTE LOGISTICA",
+          "monto": "",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "EN VIA 1"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "08:45 a.m."
     }
   ],
   "remitentesLista": [
