@@ -1795,6 +1795,29 @@
       "estado": "gestionado",
       "horaCarga": "09:47 a.m.",
       "fechaGestionadoIso": "2026-11-03T13:19:17.363Z"
+    },
+    {
+      "id": "1793797449867",
+      "remitente": "Tomás",
+      "fecha": "2026-11-04",
+      "items": [
+        {
+          "detalle": "BRIGHINA LAURA SILVIA - FACTURA 7878",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "E-CHEQ PROPIO.",
+      "estado": "pendiente",
+      "horaCarga": "10:04 a.m."
     }
   ],
   "remitentesLista": [
