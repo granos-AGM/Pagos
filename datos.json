@@ -1985,6 +1985,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:51 a.m."
+    },
+    {
+      "id": "1793883835486",
+      "remitente": "Alex",
+      "fecha": "2026-11-05",
+      "items": [
+        {
+          "detalle": "DALINGER WALTER EDGARDO",
+          "monto": "1.970.000",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "30 FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "107"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:03 a.m."
     }
   ],
   "remitentesLista": [
