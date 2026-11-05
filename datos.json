@@ -2055,6 +2055,29 @@
       "observaciones": "HAY UN SALDO A FAVOR NUESTRO",
       "estado": "pendiente",
       "horaCarga": "10:11 a.m."
+    },
+    {
+      "id": "1793884313314",
+      "remitente": "Tomás",
+      "fecha": "2026-11-05",
+      "items": [
+        {
+          "detalle": "CASA ROSSA",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:11 a.m."
     }
   ],
   "remitentesLista": [
