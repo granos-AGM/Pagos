@@ -2298,6 +2298,29 @@
       "estado": "gestionado",
       "horaCarga": "11:22 a.m.",
       "fechaGestionadoIso": "2026-11-05T14:26:23.726Z"
+    },
+    {
+      "id": "1793894526353",
+      "remitente": "Tomás",
+      "fecha": "2026-11-05",
+      "items": [
+        {
+          "detalle": "SPONSOREO CLUB",
+          "monto": "300.000",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "Somosunclub",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "PAGO PEDIDO POR ROCIO, CUALQUIER CONSULTA A ELLA.",
+      "estado": "pendiente",
+      "horaCarga": "01:02 p.m."
     }
   ],
   "remitentesLista": [
