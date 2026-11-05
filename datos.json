@@ -2127,6 +2127,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "10:15 a.m."
+    },
+    {
+      "id": "1793884563879",
+      "remitente": "Tomás",
+      "fecha": "2026-11-05",
+      "items": [
+        {
+          "detalle": "RONAL FLEX",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "60 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:16 a.m."
     }
   ],
   "remitentesLista": [
