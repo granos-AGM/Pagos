@@ -2197,6 +2197,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "10:17 a.m."
+    },
+    {
+      "id": "1793884671194",
+      "remitente": "Tomás",
+      "fecha": "2026-11-05",
+      "items": [
+        {
+          "detalle": "AGUERO ERIKA MERCEDES - FACTURA 276",
+          "monto": "",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:17 a.m."
     }
   ],
   "remitentesLista": [
