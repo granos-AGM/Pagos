@@ -2009,6 +2009,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "10:03 a.m."
+    },
+    {
+      "id": "1793884241851",
+      "remitente": "Tomás",
+      "fecha": "2026-11-05",
+      "items": [
+        {
+          "detalle": "WARBEL",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "15 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:10 a.m."
     }
   ],
   "remitentesLista": [
