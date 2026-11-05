@@ -1505,8 +1505,9 @@
         }
       ],
       "observaciones": "Banco Galicia\n\nMARISA VERONICA GODOY\n\nCTA: 4015047-9 115-0\n\nCBU: 00701156-30004015047903\n\nALIAS: BASTON.PILETA.AMIGA\n\nCUIL: 27-24703097-8",
-      "estado": "pendiente",
-      "horaCarga": "09:17 a.m."
+      "estado": "gestionado",
+      "horaCarga": "09:17 a.m.",
+      "fechaGestionadoIso": "2026-11-05T14:26:40.658Z"
     },
     {
       "id": "1793708270230",
