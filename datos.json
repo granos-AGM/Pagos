@@ -1914,6 +1914,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:33"
+    },
+    {
+      "id": "1793882320635",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-05",
+      "items": [
+        {
+          "detalle": "SISDAM",
+          "monto": "577.355,12",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:38"
     }
   ],
   "remitentesLista": [
