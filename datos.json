@@ -2294,6 +2294,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "11:20"
+    },
+    {
+      "id": "1793888529208",
+      "remitente": "Tomás",
+      "fecha": "2026-11-05",
+      "items": [
+        {
+          "detalle": "RODOLFI E HIJOS E HIJOS",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "11:22 a.m."
     }
   ],
   "remitentesLista": [
