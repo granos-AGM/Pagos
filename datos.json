@@ -1937,6 +1937,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:38"
+    },
+    {
+      "id": "1793883002219",
+      "remitente": "Alex",
+      "fecha": "2026-11-05",
+      "items": [
+        {
+          "detalle": "LAUMANN LOGISTICA & SERVICIOS SRL",
+          "monto": "2.701.500",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "30 FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "107"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:50 a.m."
     }
   ],
   "remitentesLista": [
