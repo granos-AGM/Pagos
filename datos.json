@@ -1843,6 +1843,30 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "08:57"
+    },
+    {
+      "id": "1793879916864",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-05",
+      "items": [
+        {
+          "detalle": "ABELCAR",
+          "monto": "222.534,73",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS FF.",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "08:58"
     }
   ],
   "remitentesLista": [
