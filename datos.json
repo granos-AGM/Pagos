@@ -2244,6 +2244,27 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "10:22 a.m."
+    },
+    {
+      "id": "1793884981803",
+      "remitente": "Tomás",
+      "fecha": "2026-11-05",
+      "items": [
+        {
+          "detalle": "aislantes industriales",
+          "monto": "",
+          "formas": [],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:23 a.m."
     }
   ],
   "remitentesLista": [
