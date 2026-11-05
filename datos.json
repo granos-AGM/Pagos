@@ -1960,6 +1960,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:50 a.m."
+    },
+    {
+      "id": "1793883107138",
+      "remitente": "Alex",
+      "fecha": "2026-11-05",
+      "items": [
+        {
+          "detalle": "DON SERGIO SRL",
+          "monto": "2.100.000",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "30FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "107"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:51 a.m."
     }
   ],
   "remitentesLista": [
