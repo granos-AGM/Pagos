@@ -2275,27 +2275,6 @@
       "fechaGestionadoIso": "2026-11-05T14:03:38.107Z"
     },
     {
-      "id": "1793888447049",
-      "remitente": "Santiago",
-      "fecha": "2026-11-05",
-      "items": [
-        {
-          "detalle": "PRUEBA",
-          "monto": "",
-          "formas": [],
-          "plazo": "",
-          "cbu": "",
-          "vepPagador": "",
-          "vepContribuyente": "",
-          "linkPago": "",
-          "obsItem": ""
-        }
-      ],
-      "observaciones": "",
-      "estado": "pendiente",
-      "horaCarga": "11:20"
-    },
-    {
       "id": "1793888529208",
       "remitente": "Tomás",
       "fecha": "2026-11-05",
