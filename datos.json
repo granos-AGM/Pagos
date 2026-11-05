@@ -2319,8 +2319,9 @@
         }
       ],
       "observaciones": "PAGO PEDIDO POR ROCIO, CUALQUIER CONSULTA A ELLA.",
-      "estado": "pendiente",
-      "horaCarga": "01:02 p.m."
+      "estado": "gestionado",
+      "horaCarga": "01:02 p.m.",
+      "fechaGestionadoIso": "2026-11-05T17:26:55.628Z"
     }
   ],
   "remitentesLista": [
