@@ -2105,8 +2105,9 @@
         }
       ],
       "observaciones": "CA $ 420 0020022905\nNro CBU: 0200420811000020022958\nAlias: Magali.casa\nTitular/es:\nNombre: Casa Magali De Lourdes\nCUIT/CUIL: 27291821486\nNombre: Heredia Agostina Belen\nCUIT/CUIL: 27424425341",
-      "estado": "pendiente",
-      "horaCarga": "10:13 a.m."
+      "estado": "gestionado",
+      "horaCarga": "10:13 a.m.",
+      "fechaGestionadoIso": "2026-11-05T14:11:09.547Z"
     },
     {
       "id": "1793884548823",
