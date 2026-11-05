@@ -2032,6 +2032,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "10:10 a.m."
+    },
+    {
+      "id": "1793884280247",
+      "remitente": "Tomás",
+      "fecha": "2026-11-05",
+      "items": [
+        {
+          "detalle": "LORENZO E HIJOS - FACTURA 10507",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "HAY UN SALDO A FAVOR NUESTRO",
+      "estado": "pendiente",
+      "horaCarga": "10:11 a.m."
     }
   ],
   "remitentesLista": [
