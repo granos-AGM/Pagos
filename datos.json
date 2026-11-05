@@ -2221,6 +2221,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "10:17 a.m."
+    },
+    {
+      "id": "1793884974286",
+      "remitente": "Tomás",
+      "fecha": "2026-11-05",
+      "items": [
+        {
+          "detalle": "rodolfi e hijos",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:22 a.m."
     }
   ],
   "remitentesLista": [
