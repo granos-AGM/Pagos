@@ -1843,27 +1843,6 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "08:57"
-    },
-    {
-      "id": "1793879853802",
-      "remitente": "Maria Luz",
-      "fecha": "2026-11-05",
-      "items": [
-        {
-          "detalle": "ABELCAR",
-          "monto": "",
-          "formas": [],
-          "plazo": "",
-          "cbu": "",
-          "vepPagador": "",
-          "vepContribuyente": "",
-          "linkPago": "",
-          "obsItem": ""
-        }
-      ],
-      "observaciones": "",
-      "estado": "pendiente",
-      "horaCarga": "08:57"
     }
   ],
   "remitentesLista": [
