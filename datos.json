@@ -2079,6 +2079,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "10:11 a.m."
+    },
+    {
+      "id": "1793884390976",
+      "remitente": "Tomás",
+      "fecha": "2026-11-05",
+      "items": [
+        {
+          "detalle": "CATERING VENDEDORES",
+          "monto": "345.000",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "CA $ 420 0020022905\nNro CBU: 0200420811000020022958\nAlias: Magali.casa\nTitular/es:\nNombre: Casa Magali De Lourdes\nCUIT/CUIL: 27291821486\nNombre: Heredia Agostina Belen\nCUIT/CUIL: 27424425341",
+      "estado": "pendiente",
+      "horaCarga": "10:13 a.m."
     }
   ],
   "remitentesLista": [
