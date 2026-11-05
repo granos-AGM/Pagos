@@ -2104,6 +2104,29 @@
       "observaciones": "CA $ 420 0020022905\nNro CBU: 0200420811000020022958\nAlias: Magali.casa\nTitular/es:\nNombre: Casa Magali De Lourdes\nCUIT/CUIL: 27291821486\nNombre: Heredia Agostina Belen\nCUIT/CUIL: 27424425341",
       "estado": "pendiente",
       "horaCarga": "10:13 a.m."
+    },
+    {
+      "id": "1793884548823",
+      "remitente": "Tomás",
+      "fecha": "2026-11-05",
+      "items": [
+        {
+          "detalle": "FIDEICOMISO RD - FACTURA 288",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "AL 10/11",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:15 a.m."
     }
   ],
   "remitentesLista": [
