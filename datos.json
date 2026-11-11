@@ -2510,6 +2510,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "13:21"
+    },
+    {
+      "id": "1794420409468",
+      "remitente": "Tomás",
+      "fecha": "2026-11-11",
+      "items": [
+        {
+          "detalle": "REPOSICION CHEQUE ARIEL PEREZ",
+          "monto": "1.000.000",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "03:06 p.m."
     }
   ],
   "remitentesLista": [
