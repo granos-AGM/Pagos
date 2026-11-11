@@ -2345,6 +2345,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:19 a.m."
+    },
+    {
+      "id": "1794399610452",
+      "remitente": "Tomás",
+      "fecha": "2026-11-11",
+      "items": [
+        {
+          "detalle": "TRAC SA - FACTURA 5672",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:20 a.m."
     }
   ],
   "remitentesLista": [
