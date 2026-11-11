@@ -2439,6 +2439,30 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "11:01"
+    },
+    {
+      "id": "1794408448164",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-12",
+      "items": [
+        {
+          "detalle": "CAON ATILIO",
+          "monto": "210.035",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "11:47"
     }
   ],
   "remitentesLista": [
