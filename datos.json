@@ -2415,6 +2415,30 @@
       "estado": "gestionado",
       "horaCarga": "09:21 a.m.",
       "fechaGestionadoIso": "2026-11-11T13:22:48.004Z"
+    },
+    {
+      "id": "1794405670598",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-12",
+      "items": [
+        {
+          "detalle": "HUGO RAUL LOPEZ",
+          "monto": "1.637.133,19",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "11:01"
     }
   ],
   "remitentesLista": [
