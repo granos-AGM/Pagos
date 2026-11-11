@@ -2322,6 +2322,29 @@
       "estado": "gestionado",
       "horaCarga": "01:02 p.m.",
       "fechaGestionadoIso": "2026-11-05T17:26:55.628Z"
+    },
+    {
+      "id": "1794399578762",
+      "remitente": "Tomás",
+      "fecha": "2026-11-11",
+      "items": [
+        {
+          "detalle": "LA SEÑERA - FACTURA 5816",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "60 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:19 a.m."
     }
   ],
   "remitentesLista": [
