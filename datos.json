@@ -2533,6 +2533,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "03:06 p.m."
+    },
+    {
+      "id": "1794420446808",
+      "remitente": "Tomás",
+      "fecha": "2026-11-11",
+      "items": [
+        {
+          "detalle": "IVALDI MAXIMILIANO - FACTURA 2353",
+          "monto": "9.374.000",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "30-60 dias",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "03:07 p.m."
     }
   ],
   "remitentesLista": [
