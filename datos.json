@@ -2391,6 +2391,29 @@
       "observaciones": "FACTURA 79642 E-CHEQ A 60 DIAS FF Y FACTURA 79943 30 DIAS FF. CON E-CHEQS PROPIOS",
       "estado": "pendiente",
       "horaCarga": "09:21 a.m."
+    },
+    {
+      "id": "1794399712928",
+      "remitente": "Tomás",
+      "fecha": "2026-11-11",
+      "items": [
+        {
+          "detalle": "DISTRIBUIDORA DE GAS DEL CENTRO (ECOGAS)",
+          "monto": "5.265.187,88",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:21 a.m."
     }
   ],
   "remitentesLista": [
