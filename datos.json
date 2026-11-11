@@ -2368,6 +2368,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:20 a.m."
+    },
+    {
+      "id": "1794399669006",
+      "remitente": "Tomás",
+      "fecha": "2026-11-11",
+      "items": [
+        {
+          "detalle": "VIDEOJET",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF Y 60 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "FACTURA 79642 E-CHEQ A 60 DIAS FF Y FACTURA 79943 30 DIAS FF. CON E-CHEQS PROPIOS",
+      "estado": "pendiente",
+      "horaCarga": "09:21 a.m."
     }
   ],
   "remitentesLista": [
