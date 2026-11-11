@@ -2556,6 +2556,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "03:07 p.m."
+    },
+    {
+      "id": "1794427502486",
+      "remitente": "Tomás",
+      "fecha": "2026-11-11",
+      "items": [
+        {
+          "detalle": "Saldo de alquiler de Salón",
+          "monto": "55.000",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "Titular: CENTRO DE EMPLEADOS DE COMERCIO DE VILLA\nCUIT/CUIL: 30-53116152-8\n\nCVU: 0000003100078540513285\n\nAlias: cec.vm",
+      "estado": "pendiente",
+      "horaCarga": "05:05 p.m."
     }
   ],
   "remitentesLista": [
