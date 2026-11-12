@@ -2628,6 +2628,30 @@
       "observaciones": "VENCIMIENTO 25/11",
       "estado": "pendiente",
       "horaCarga": "08:29 a.m."
+    },
+    {
+      "id": "1794483095060",
+      "remitente": "Tomás",
+      "fecha": "2026-11-12",
+      "items": [
+        {
+          "detalle": "COOPERATIVA DE COLAZO",
+          "monto": "151.557.533,84",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "VENCEN EL 20/11",
+      "estado": "pendiente",
+      "horaCarga": "08:31 a.m."
     }
   ],
   "remitentesLista": [
