@@ -2703,6 +2703,30 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "08:36"
+    },
+    {
+      "id": "1794484129609",
+      "remitente": "Santiago",
+      "fecha": "2026-11-12",
+      "items": [
+        {
+          "detalle": "CASALE JAVIER / FA 2-427",
+          "monto": "",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "20 DIAS",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "08:48"
     }
   ],
   "remitentesLista": [
