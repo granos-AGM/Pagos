@@ -2797,6 +2797,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:23 a.m."
+    },
+    {
+      "id": "1794486910173",
+      "remitente": "Alex",
+      "fecha": "2026-11-12",
+      "items": [
+        {
+          "detalle": "TRANSPORTES MARTIN SRL",
+          "monto": "3.872.000",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "A"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:35 a.m."
     }
   ],
   "remitentesLista": [
