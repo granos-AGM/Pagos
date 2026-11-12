@@ -2820,6 +2820,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:35 a.m."
+    },
+    {
+      "id": "1794487238904",
+      "remitente": "Alex",
+      "fecha": "2026-11-12",
+      "items": [
+        {
+          "detalle": "PERALTA MARIANO GERMAN NARCI",
+          "monto": "820.000",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "30FF 107",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "EL PAGO VA A LA OFICINA DE VILLA MARIA"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:40 a.m."
     }
   ],
   "remitentesLista": [
