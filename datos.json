@@ -2579,8 +2579,9 @@
         }
       ],
       "observaciones": "Titular: CENTRO DE EMPLEADOS DE COMERCIO DE VILLA\nCUIT/CUIL: 30-53116152-8\n\nCVU: 0000003100078540513285\n\nAlias: cec.vm",
-      "estado": "pendiente",
-      "horaCarga": "05:05 p.m."
+      "estado": "gestionado",
+      "horaCarga": "05:05 p.m.",
+      "fechaGestionadoIso": "2026-11-12T11:39:06.408Z"
     },
     {
       "id": "1794482853926",
