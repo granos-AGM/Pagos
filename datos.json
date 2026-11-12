@@ -2751,6 +2751,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:12 a.m."
+    },
+    {
+      "id": "1794485688130",
+      "remitente": "Alex",
+      "fecha": "2026-11-12",
+      "items": [
+        {
+          "detalle": "HORIZONTE LOGISTICA",
+          "monto": "",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "A Y 107"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:14 a.m."
     }
   ],
   "remitentesLista": [
