@@ -2579,6 +2579,31 @@
       "observaciones": "Titular: CENTRO DE EMPLEADOS DE COMERCIO DE VILLA\nCUIT/CUIL: 30-53116152-8\n\nCVU: 0000003100078540513285\n\nAlias: cec.vm",
       "estado": "pendiente",
       "horaCarga": "05:05 p.m."
+    },
+    {
+      "id": "1794482853926",
+      "remitente": "Tomás",
+      "fecha": "2026-11-12",
+      "items": [
+        {
+          "detalle": "TADEO GALBAÑO - FACTURA 2801",
+          "monto": "3.340.000",
+          "formas": [
+            "Cheque Físico",
+            "107",
+            "Efectivo / Otro"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "MITAD EFECTIVO, MITAD CHEQUES",
+      "estado": "pendiente",
+      "horaCarga": "08:27 a.m."
     }
   ],
   "remitentesLista": [
