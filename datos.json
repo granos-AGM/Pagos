@@ -2638,8 +2638,9 @@
         }
       ],
       "observaciones": "VENCIMIENTO 25/11",
-      "estado": "pendiente",
-      "horaCarga": "08:29 a.m."
+      "estado": "gestionado",
+      "horaCarga": "08:29 a.m.",
+      "fechaGestionadoIso": "2026-11-12T13:23:09.367Z"
     },
     {
       "id": "1794483095060",
