@@ -2394,8 +2394,9 @@
         }
       ],
       "observaciones": "FACTURA 79642 E-CHEQ A 60 DIAS FF Y FACTURA 79943 30 DIAS FF. CON E-CHEQS PROPIOS",
-      "estado": "pendiente",
-      "horaCarga": "09:21 a.m."
+      "estado": "gestionado",
+      "horaCarga": "09:21 a.m.",
+      "fechaGestionadoIso": "2026-11-12T13:08:00.870Z"
     },
     {
       "id": "1794399712928",
