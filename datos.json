@@ -2604,6 +2604,29 @@
       "observaciones": "MITAD EFECTIVO, MITAD CHEQUES",
       "estado": "pendiente",
       "horaCarga": "08:27 a.m."
+    },
+    {
+      "id": "1794482969566",
+      "remitente": "Tomás",
+      "fecha": "2026-11-12",
+      "items": [
+        {
+          "detalle": "ENERGIA SUDAMERICANA - FACTURA 26380",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "VENCIMIENTO 25/11",
+      "estado": "pendiente",
+      "horaCarga": "08:29 a.m."
     }
   ],
   "remitentesLista": [
