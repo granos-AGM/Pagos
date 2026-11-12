@@ -2882,6 +2882,29 @@
       "observaciones": "EL PAGO VA A LA OFICINA DE VILLA MARIA",
       "estado": "pendiente",
       "horaCarga": "10:20 a.m."
+    },
+    {
+      "id": "1794497575373",
+      "remitente": "Tomás",
+      "fecha": "2026-11-12",
+      "items": [
+        {
+          "detalle": "CENTRO PALLETS",
+          "monto": "17.100.000",
+          "formas": [
+            "107"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "cheques por este valor:\n$ 16.000.000\n$ 300.000\n$ 400.000\n$ 400.000",
+      "estado": "pendiente",
+      "horaCarga": "12:32 p.m."
     }
   ],
   "remitentesLista": [
