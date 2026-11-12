@@ -2653,6 +2653,29 @@
       "observaciones": "VENCEN EL 20/11",
       "estado": "pendiente",
       "horaCarga": "08:31 a.m."
+    },
+    {
+      "id": "1794483188676",
+      "remitente": "Santiago",
+      "fecha": "2026-11-12",
+      "items": [
+        {
+          "detalle": "CAPOMASI LEANDRO JAVIER",
+          "monto": "110000",
+          "formas": [
+            "107"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "08:33"
     }
   ],
   "remitentesLista": [
