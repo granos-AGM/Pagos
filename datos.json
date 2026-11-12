@@ -2774,6 +2774,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:14 a.m."
+    },
+    {
+      "id": "1794486210310",
+      "remitente": "Alex",
+      "fecha": "2026-11-12",
+      "items": [
+        {
+          "detalle": "LOGISTICA TRANLEB",
+          "monto": "1.875.500",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "A"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:23 a.m."
     }
   ],
   "remitentesLista": [
