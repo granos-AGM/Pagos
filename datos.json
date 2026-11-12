@@ -2603,8 +2603,9 @@
         }
       ],
       "observaciones": "MITAD EFECTIVO, MITAD CHEQUES",
-      "estado": "pendiente",
-      "horaCarga": "08:27 a.m."
+      "estado": "gestionado",
+      "horaCarga": "08:27 a.m.",
+      "fechaGestionadoIso": "2026-11-12T11:32:04.849Z"
     },
     {
       "id": "1794482969566",
