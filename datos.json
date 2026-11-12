@@ -2678,6 +2678,29 @@
       "estado": "gestionado",
       "horaCarga": "08:33",
       "fechaGestionadoIso": "2026-11-12T11:35:08.038Z"
+    },
+    {
+      "id": "1794483414195",
+      "remitente": "Santiago",
+      "fecha": "2026-11-12",
+      "items": [
+        {
+          "detalle": "GDM ARGENTINA / FA 261-13651",
+          "monto": "",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "GDM.NACION.ARS / GDM.GALI.ARS",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "08:36"
     }
   ],
   "remitentesLista": [
