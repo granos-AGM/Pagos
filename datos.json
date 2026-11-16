@@ -2965,6 +2965,42 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "16:35"
+    },
+    {
+      "id": "1794858149132",
+      "remitente": "Santiago",
+      "fecha": "2026-11-16",
+      "items": [
+        {
+          "detalle": "EL FIERRO S.R.L / FA 7-447",
+          "monto": "251.680",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "19102502-55025000000300",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "BANCO CREDICOOP"
+        },
+        {
+          "detalle": "EL FIERRO S.R.L / FA 7-417",
+          "monto": "300.000",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "19102502-55025000000300",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "BANCO CREDICOOP"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "16:42"
     }
   ],
   "remitentesLista": [
