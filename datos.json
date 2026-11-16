@@ -2931,42 +2931,6 @@
       "fechaGestionadoIso": "2026-11-16T16:24:23.390Z"
     },
     {
-      "id": "1794857720708",
-      "remitente": "Santiago",
-      "fecha": "2026-11-17",
-      "items": [
-        {
-          "detalle": "EL FIERRO S.R.L / FA 7-447",
-          "monto": "251.680",
-          "formas": [
-            "Transferencia / CBU"
-          ],
-          "plazo": "",
-          "cbu": "19102502-55025000000300",
-          "vepPagador": "",
-          "vepContribuyente": "",
-          "linkPago": "",
-          "obsItem": ""
-        },
-        {
-          "detalle": "EL FIERRO S.R.L / FA 7-417",
-          "monto": "300.000",
-          "formas": [
-            "Transferencia / CBU"
-          ],
-          "plazo": "",
-          "cbu": "19102502-55025000000300",
-          "vepPagador": "",
-          "vepContribuyente": "",
-          "linkPago": "",
-          "obsItem": ""
-        }
-      ],
-      "observaciones": "",
-      "estado": "pendiente",
-      "horaCarga": "16:35"
-    },
-    {
       "id": "1794858149132",
       "remitente": "Santiago",
       "fecha": "2026-11-16",
