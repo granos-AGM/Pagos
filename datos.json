@@ -2905,6 +2905,29 @@
       "observaciones": "cheques por este valor:\n$ 16.000.000\n$ 300.000\n$ 400.000\n$ 400.000",
       "estado": "pendiente",
       "horaCarga": "12:32 p.m."
+    },
+    {
+      "id": "1794844059218",
+      "remitente": "Tomás",
+      "fecha": "2026-11-16",
+      "items": [
+        {
+          "detalle": "MADINAT ILIBERIS - FACTURA 40",
+          "monto": "",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "12:47 p.m."
     }
   ],
   "remitentesLista": [
