@@ -3250,6 +3250,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:52 a.m."
+    },
+    {
+      "id": "1794920088533",
+      "remitente": "Tomás",
+      "fecha": "2026-11-17",
+      "items": [
+        {
+          "detalle": "ROSELES - FACTURA 2656",
+          "monto": "51.000",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "Banco Galicia (Suc Villa Maria)\n\nNúmero de cuenta: 0007736-7 115-8\n\nCUIT: 30-71852041-6\n\nRazón Social: ROSELE S.A.S.\n \nCBU: 0070115620000007736786\n\nAlias: HOTEL.SANMARTIN.GAL",
+      "estado": "pendiente",
+      "horaCarga": "09:54 a.m."
     }
   ],
   "remitentesLista": [
