@@ -2969,6 +2969,29 @@
       "estado": "gestionado",
       "horaCarga": "16:42",
       "fechaGestionadoIso": "2026-11-17T12:05:17.260Z"
+    },
+    {
+      "id": "1794919457874",
+      "remitente": "Alex",
+      "fecha": "2026-11-17",
+      "items": [
+        {
+          "detalle": "LAUMANN LOGISTICA & SERVICIOS SRL",
+          "monto": "1.625.000",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "30 FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "107, EL PAGO VA A VILLA MARIA"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:44 a.m."
     }
   ],
   "remitentesLista": [
