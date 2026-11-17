@@ -3330,6 +3330,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "11:27"
+    },
+    {
+      "id": "1794926958280",
+      "remitente": "Tomás",
+      "fecha": "2026-11-17",
+      "items": [
+        {
+          "detalle": "AISLANTES INDUSTRIALES - FACTURA 43305",
+          "monto": "1.108.003,50",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "45 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "11:49 a.m."
     }
   ],
   "remitentesLista": [
