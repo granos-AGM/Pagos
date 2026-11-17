@@ -3039,30 +3039,6 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:47 a.m."
-    },
-    {
-      "id": "1794919651508",
-      "remitente": "Tomás",
-      "fecha": "2026-11-17",
-      "items": [
-        {
-          "detalle": "ARCE ELVIO",
-          "monto": "617.880",
-          "formas": [
-            "Cheque Físico",
-            "Efectivo / Otro"
-          ],
-          "plazo": "",
-          "cbu": "",
-          "vepPagador": "",
-          "vepContribuyente": "",
-          "linkPago": "",
-          "obsItem": ""
-        }
-      ],
-      "observaciones": "",
-      "estado": "pendiente",
-      "horaCarga": "09:47 a.m."
     }
   ],
   "remitentesLista": [
