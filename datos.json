@@ -2992,6 +2992,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:44 a.m."
+    },
+    {
+      "id": "1794919502286",
+      "remitente": "Alex",
+      "fecha": "2026-11-17",
+      "items": [
+        {
+          "detalle": "MOVILIZA S.R.L",
+          "monto": "1.814.998,45",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "A"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:45 a.m."
     }
   ],
   "remitentesLista": [
