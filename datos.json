@@ -3064,6 +3064,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:47 a.m."
+    },
+    {
+      "id": "1794919682490",
+      "remitente": "Tomás",
+      "fecha": "2026-11-17",
+      "items": [
+        {
+          "detalle": "FLUID",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:48 a.m."
     }
   ],
   "remitentesLista": [
