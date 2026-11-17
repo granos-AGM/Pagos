@@ -2905,8 +2905,9 @@
         }
       ],
       "observaciones": "cheques por este valor:\n$ 16.000.000\n$ 300.000\n$ 400.000\n$ 400.000",
-      "estado": "pendiente",
-      "horaCarga": "12:32 p.m."
+      "estado": "gestionado",
+      "horaCarga": "12:32 p.m.",
+      "fechaGestionadoIso": "2026-11-17T12:01:52.556Z"
     },
     {
       "id": "1794844059218",
