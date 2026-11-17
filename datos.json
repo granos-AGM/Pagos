@@ -3179,6 +3179,29 @@
       "observaciones": "N° Factura 03-1400 - Fecha de factura: 11-11-2026 - N° Factura 03-1390 - Fecha de factura: 03-11-2026",
       "estado": "pendiente",
       "horaCarga": "09:50 a.m."
+    },
+    {
+      "id": "1794919877457",
+      "remitente": "Tomás",
+      "fecha": "2026-11-17",
+      "items": [
+        {
+          "detalle": "GRUPO EON - FACTURA 180",
+          "monto": "",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:51 a.m."
     }
   ],
   "remitentesLista": [
