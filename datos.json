@@ -3156,6 +3156,29 @@
       "observaciones": "N° Factura 02 -1550 - Fecha de factura: 11-11-2026 - Forma de Pago: Echeq 15 dias.",
       "estado": "pendiente",
       "horaCarga": "09:50 a.m."
+    },
+    {
+      "id": "1794919858275",
+      "remitente": "Tomás",
+      "fecha": "2026-11-17",
+      "items": [
+        {
+          "detalle": "PILCA (RAUL)",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "N° Factura 03-1400 - Fecha de factura: 11-11-2026 - N° Factura 03-1390 - Fecha de factura: 03-11-2026",
+      "estado": "pendiente",
+      "horaCarga": "09:50 a.m."
     }
   ],
   "remitentesLista": [
