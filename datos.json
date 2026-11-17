@@ -3160,8 +3160,9 @@
         }
       ],
       "observaciones": "N° Factura 02 -1550 - Fecha de factura: 11-11-2026 - Forma de Pago: Echeq 15 dias.",
-      "estado": "pendiente",
-      "horaCarga": "09:50 a.m."
+      "estado": "gestionado",
+      "horaCarga": "09:50 a.m.",
+      "fechaGestionadoIso": "2026-11-17T13:14:49.486Z"
     },
     {
       "id": "1794919858275",
