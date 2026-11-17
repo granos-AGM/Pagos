@@ -3225,6 +3225,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:51 a.m."
+    },
+    {
+      "id": "1794919937368",
+      "remitente": "Tomás",
+      "fecha": "2026-11-17",
+      "items": [
+        {
+          "detalle": "BRUMATTI MARIA ALEJANDRA - FACTURA2092",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "E-CHEQ AL DIA",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:52 a.m."
     }
   ],
   "remitentesLista": [
