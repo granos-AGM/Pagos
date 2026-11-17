@@ -3110,6 +3110,29 @@
       "observaciones": "FACTURAS 3221-3222-3223-3224",
       "estado": "pendiente",
       "horaCarga": "09:48 a.m."
+    },
+    {
+      "id": "1794919759878",
+      "remitente": "Tomás",
+      "fecha": "2026-11-17",
+      "items": [
+        {
+          "detalle": "LOPEZ QUIMICA",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:49 a.m."
     }
   ],
   "remitentesLista": [
