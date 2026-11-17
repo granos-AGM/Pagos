@@ -3133,6 +3133,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:49 a.m."
+    },
+    {
+      "id": "1794919814365",
+      "remitente": "Tomás",
+      "fecha": "2026-11-17",
+      "items": [
+        {
+          "detalle": "AMERCA CONTRUCCIONES (RAUL)",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "15 DIAS",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "N° Factura 02 -1550 - Fecha de factura: 11-11-2026 - Forma de Pago: Echeq 15 dias.",
+      "estado": "pendiente",
+      "horaCarga": "09:50 a.m."
     }
   ],
   "remitentesLista": [
