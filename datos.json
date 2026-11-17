@@ -3304,8 +3304,9 @@
         }
       ],
       "observaciones": "Banco BBVA Francés- Caja de Ahorro en $  244-321415/2\nTitular VIVIANA CHIAPPERO Cuit: 27-27267229-1  \n\nCBU 0170244840000032141528\n\nAlias MARCAS.EST.MARTINEZ",
-      "estado": "pendiente",
-      "horaCarga": "10:06 a.m."
+      "estado": "gestionado",
+      "horaCarga": "10:06 a.m.",
+      "fechaGestionadoIso": "2026-11-17T13:47:27.496Z"
     }
   ],
   "remitentesLista": [
