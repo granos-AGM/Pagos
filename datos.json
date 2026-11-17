@@ -3380,6 +3380,29 @@
       "estado": "gestionado",
       "horaCarga": "12:02 p.m.",
       "fechaGestionadoIso": "2026-11-17T15:05:48.848Z"
+    },
+    {
+      "id": "1794932375150",
+      "remitente": "Santiago",
+      "fecha": "2026-11-17",
+      "items": [
+        {
+          "detalle": "SISTEMA INTEGRAL S.A.S / FA 35-294",
+          "monto": "852.142.50",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "0070374920000002705853",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "13:19"
     }
   ],
   "remitentesLista": [
