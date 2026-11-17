@@ -3087,6 +3087,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:48 a.m."
+    },
+    {
+      "id": "1794919739512",
+      "remitente": "Tomás",
+      "fecha": "2026-11-17",
+      "items": [
+        {
+          "detalle": "WD - PARTE EN A",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "45 DIAS FF - PIDIO SEBA QUE LOS CHEQUES NO PASEN DEL 10/12",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "FACTURAS 3221-3222-3223-3224",
+      "estado": "pendiente",
+      "horaCarga": "09:48 a.m."
     }
   ],
   "remitentesLista": [
