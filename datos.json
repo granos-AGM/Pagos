@@ -3356,6 +3356,29 @@
       "estado": "gestionado",
       "horaCarga": "11:49 a.m.",
       "fechaGestionadoIso": "2026-11-17T14:59:15.435Z"
+    },
+    {
+      "id": "1794927753657",
+      "remitente": "Alex",
+      "fecha": "2026-11-17",
+      "items": [
+        {
+          "detalle": "NATALE SUSANA INES",
+          "monto": "1.150.000",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "30 FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "107 EL PAGO VA A LA OFICINA DE VILLA MARIA"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "12:02 p.m."
     }
   ],
   "remitentesLista": [
