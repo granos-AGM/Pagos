@@ -3275,6 +3275,29 @@
       "observaciones": "Banco Galicia (Suc Villa Maria)\n\nNúmero de cuenta: 0007736-7 115-8\n\nCUIT: 30-71852041-6\n\nRazón Social: ROSELE S.A.S.\n \nCBU: 0070115620000007736786\n\nAlias: HOTEL.SANMARTIN.GAL",
       "estado": "pendiente",
       "horaCarga": "09:54 a.m."
+    },
+    {
+      "id": "1794920806659",
+      "remitente": "Tomás",
+      "fecha": "2026-11-17",
+      "items": [
+        {
+          "detalle": "CHIAPPERO VIVIANA ELIZABETH",
+          "monto": "590.215",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "Banco BBVA Francés- Caja de Ahorro en $  244-321415/2\nTitular VIVIANA CHIAPPERO Cuit: 27-27267229-1  \n\nCBU 0170244840000032141528\n\nAlias MARCAS.EST.MARTINEZ",
+      "estado": "pendiente",
+      "horaCarga": "10:06 a.m."
     }
   ],
   "remitentesLista": [
