@@ -3015,6 +3015,30 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:45 a.m."
+    },
+    {
+      "id": "1794919635952",
+      "remitente": "Tomás",
+      "fecha": "2026-11-17",
+      "items": [
+        {
+          "detalle": "CUASSOLO PABLO - FACTURA 301",
+          "monto": "",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:47 a.m."
     }
   ],
   "remitentesLista": [
