@@ -3202,6 +3202,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:51 a.m."
+    },
+    {
+      "id": "1794919914604",
+      "remitente": "Tomás",
+      "fecha": "2026-11-17",
+      "items": [
+        {
+          "detalle": "BIMONT - FACTURA 10847",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "E-CHEQ AL DIA",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:51 a.m."
     }
   ],
   "remitentesLista": [
