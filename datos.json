@@ -3452,6 +3452,30 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "14:29"
+    },
+    {
+      "id": "1795023056071",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-19",
+      "items": [
+        {
+          "detalle": "EXPRESO LANCIONI",
+          "monto": "1.327.455,86",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS FF.",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "14:30"
     }
   ],
   "remitentesLista": [
