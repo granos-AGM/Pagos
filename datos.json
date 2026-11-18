@@ -3500,6 +3500,30 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "14:56"
+    },
+    {
+      "id": "1795024592828",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-19",
+      "items": [
+        {
+          "detalle": "PLEGADO CENTRO",
+          "monto": "401.000",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "14:56"
     }
   ],
   "remitentesLista": [
