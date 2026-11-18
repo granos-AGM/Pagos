@@ -3524,6 +3524,27 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "14:56"
+    },
+    {
+      "id": "1795024804804",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-19",
+      "items": [
+        {
+          "detalle": "HUGO M. ASFURA",
+          "monto": "32.121,76",
+          "formas": [],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "15:00"
     }
   ],
   "remitentesLista": [
