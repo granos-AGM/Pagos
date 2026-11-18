@@ -3404,6 +3404,30 @@
       "estado": "gestionado",
       "horaCarga": "13:19",
       "fechaGestionadoIso": "2026-11-17T18:37:22.842Z"
+    },
+    {
+      "id": "1795022884901",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-19",
+      "items": [
+        {
+          "detalle": "POLOELECTRIC",
+          "monto": "515.031,66",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS FF.",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "14:28"
     }
   ],
   "remitentesLista": [
