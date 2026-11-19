@@ -3572,6 +3572,30 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:04 a.m."
+    },
+    {
+      "id": "1795090124369",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-19",
+      "items": [
+        {
+          "detalle": "POGLIOTTI",
+          "monto": "2.367.062,50",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:08"
     }
   ],
   "remitentesLista": [
