@@ -3765,6 +3765,30 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:48 a.m."
+    },
+    {
+      "id": "1795092535436",
+      "remitente": "Tomás",
+      "fecha": "2026-11-19",
+      "items": [
+        {
+          "detalle": "MO-DE",
+          "monto": "",
+          "formas": [
+            "107",
+            "Efectivo / Otro"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:48 a.m."
     }
   ],
   "remitentesLista": [
