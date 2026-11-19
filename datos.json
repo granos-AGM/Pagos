@@ -3939,8 +3939,9 @@
         }
       ],
       "observaciones": "MITAD EFECTIVO, MITAD CHEQUES",
-      "estado": "pendiente",
-      "horaCarga": "09:54 a.m."
+      "estado": "gestionado",
+      "horaCarga": "09:54 a.m.",
+      "fechaGestionadoIso": "2026-11-19T13:18:42.937Z"
     }
   ],
   "remitentesLista": [
