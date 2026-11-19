@@ -3670,6 +3670,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:47 a.m."
+    },
+    {
+      "id": "1795092468771",
+      "remitente": "Tomás",
+      "fecha": "2026-11-19",
+      "items": [
+        {
+          "detalle": "MARTINEZ ROLANDO",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:47 a.m."
     }
   ],
   "remitentesLista": [
