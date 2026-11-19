@@ -3840,8 +3840,9 @@
         }
       ],
       "observaciones": "N° Factura: 57-11769 - Fecha de factura: 16-11-2026 - Forma de PAgo: Echeq 15 dias",
-      "estado": "pendiente",
-      "horaCarga": "09:50 a.m."
+      "estado": "gestionado",
+      "horaCarga": "09:50 a.m.",
+      "fechaGestionadoIso": "2026-11-19T13:13:39.329Z"
     },
     {
       "id": "1795092670161",
