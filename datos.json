@@ -3525,6 +3525,30 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "15:00"
+    },
+    {
+      "id": "1795089472904",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-19",
+      "items": [
+        {
+          "detalle": "FERRERO ALFREDO E HIJOS",
+          "monto": "352.232,81",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS FF.",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "08:57"
     }
   ],
   "remitentesLista": [
