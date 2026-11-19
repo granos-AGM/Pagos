@@ -3597,6 +3597,30 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:08"
+    },
+    {
+      "id": "1795091085343",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-19",
+      "items": [
+        {
+          "detalle": "ROJOSFOT",
+          "monto": "867.782,96",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS FF.",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:24"
     }
   ],
   "remitentesLista": [
