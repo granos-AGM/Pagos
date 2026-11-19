@@ -3816,8 +3816,9 @@
         }
       ],
       "observaciones": "N° Factura: 10- 2126 - Fecha de factura: 13-11-2026 - Forma de Pago: Echeq 15-30-45 dias.",
-      "estado": "pendiente",
-      "horaCarga": "09:49 a.m."
+      "estado": "gestionado",
+      "horaCarga": "09:49 a.m.",
+      "fechaGestionadoIso": "2026-11-19T13:11:31.851Z"
     },
     {
       "id": "1795092601441",
