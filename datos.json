@@ -3741,6 +3741,30 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:48 a.m."
+    },
+    {
+      "id": "1795092521449",
+      "remitente": "Tomás",
+      "fecha": "2026-11-19",
+      "items": [
+        {
+          "detalle": "VARELA SERGIO",
+          "monto": "",
+          "formas": [
+            "Cheque Físico",
+            "107"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:48 a.m."
     }
   ],
   "remitentesLista": [
