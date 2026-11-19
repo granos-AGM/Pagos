@@ -3908,6 +3908,31 @@
       "observaciones": "SE PAGA SOLO EL IVA DE ESTA FACTURA",
       "estado": "pendiente",
       "horaCarga": "09:54 a.m."
+    },
+    {
+      "id": "1795092875233",
+      "remitente": "Tomás",
+      "fecha": "2026-11-19",
+      "items": [
+        {
+          "detalle": "ABRATE JUAN",
+          "monto": "980.000",
+          "formas": [
+            "Cheque Físico",
+            "107",
+            "Efectivo / Otro"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "MITAD EFECTIVO, MITAD CHEQUES",
+      "estado": "pendiente",
+      "horaCarga": "09:54 a.m."
     }
   ],
   "remitentesLista": [
