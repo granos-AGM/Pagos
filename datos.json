@@ -3549,6 +3549,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "08:57"
+    },
+    {
+      "id": "1795089889905",
+      "remitente": "Alex",
+      "fecha": "2026-11-19",
+      "items": [
+        {
+          "detalle": "DILORETTO MILTON NAHUEL",
+          "monto": "1.700.000",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "30 FF 107",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:04 a.m."
     }
   ],
   "remitentesLista": [
