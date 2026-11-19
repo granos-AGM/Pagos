@@ -3835,6 +3835,30 @@
       "observaciones": "N° Factura: 57-11769 - Fecha de factura: 16-11-2026 - Forma de PAgo: Echeq 15 dias",
       "estado": "pendiente",
       "horaCarga": "09:50 a.m."
+    },
+    {
+      "id": "1795092670161",
+      "remitente": "Tomás",
+      "fecha": "2026-11-19",
+      "items": [
+        {
+          "detalle": "NOVOTEC ARGENTINA - FACTURA 11247",
+          "monto": "",
+          "formas": [
+            "E-Cheque",
+            "Transferencia / CBU"
+          ],
+          "plazo": "E-CHEQ AL DIA",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "BANCO BBVA                                                     Cuenta Corriente: 32/8070/4                              CBU:01 7003 2920 0000 0080 7049                      CUIT: 30-70931896-5"
+        }
+      ],
+      "observaciones": "E-CHEQ PROPIO AL DIA O TRANSFERENCIA",
+      "estado": "pendiente",
+      "horaCarga": "09:51 a.m."
     }
   ],
   "remitentesLista": [
