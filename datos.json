@@ -3859,6 +3859,29 @@
       "observaciones": "E-CHEQ PROPIO AL DIA O TRANSFERENCIA",
       "estado": "pendiente",
       "horaCarga": "09:51 a.m."
+    },
+    {
+      "id": "1795092697296",
+      "remitente": "Tomás",
+      "fecha": "2026-11-19",
+      "items": [
+        {
+          "detalle": "POLO LOGISTICO GENERAL DEHEZA",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "7 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:51 a.m."
     }
   ],
   "remitentesLista": [
