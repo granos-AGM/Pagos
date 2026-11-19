@@ -3883,6 +3883,31 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:51 a.m."
+    },
+    {
+      "id": "1795092850388",
+      "remitente": "Tomás",
+      "fecha": "2026-11-19",
+      "items": [
+        {
+          "detalle": "HORMIGONES CIMENTO - FACTURA 3121",
+          "monto": "",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico",
+            "Efectivo / Otro"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "SE PAGA SOLO EL IVA DE ESTA FACTURA",
+      "estado": "pendiente",
+      "horaCarga": "09:54 a.m."
     }
   ],
   "remitentesLista": [
