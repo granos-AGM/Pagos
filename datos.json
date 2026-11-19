@@ -3431,30 +3431,6 @@
       "fechaGestionadoIso": "2026-11-19T11:33:24.312Z"
     },
     {
-      "id": "1795022958725",
-      "remitente": "Maria Luz",
-      "fecha": "2026-11-19",
-      "items": [
-        {
-          "detalle": "COMERCIAL DEMBER",
-          "monto": "337.904",
-          "formas": [
-            "E-Cheque",
-            "Cheque Físico"
-          ],
-          "plazo": "30 DIAS FF",
-          "cbu": "",
-          "vepPagador": "",
-          "vepContribuyente": "",
-          "linkPago": "",
-          "obsItem": ""
-        }
-      ],
-      "observaciones": "",
-      "estado": "pendiente",
-      "horaCarga": "14:29"
-    },
-    {
       "id": "1795023056071",
       "remitente": "Maria Luz",
       "fecha": "2026-11-19",
