@@ -3647,6 +3647,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:47 a.m."
+    },
+    {
+      "id": "1795092451087",
+      "remitente": "Tomás",
+      "fecha": "2026-11-19",
+      "items": [
+        {
+          "detalle": "ATIME",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "45 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:47 a.m."
     }
   ],
   "remitentesLista": [
