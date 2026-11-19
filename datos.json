@@ -3865,8 +3865,9 @@
         }
       ],
       "observaciones": "E-CHEQ PROPIO AL DIA O TRANSFERENCIA",
-      "estado": "pendiente",
-      "horaCarga": "09:51 a.m."
+      "estado": "gestionado",
+      "horaCarga": "09:51 a.m.",
+      "fechaGestionadoIso": "2026-11-19T13:15:19.523Z"
     },
     {
       "id": "1795092697296",
