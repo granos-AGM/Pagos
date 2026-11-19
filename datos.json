@@ -3693,6 +3693,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:47 a.m."
+    },
+    {
+      "id": "1795092484294",
+      "remitente": "Tomás",
+      "fecha": "2026-11-19",
+      "items": [
+        {
+          "detalle": "CANAVESE SEBATIAN",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:48 a.m."
     }
   ],
   "remitentesLista": [
