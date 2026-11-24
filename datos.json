@@ -3976,8 +3976,30 @@
       "fecha": "2026-11-24",
       "items": [
         {
-          "detalle": "GAIDO MARIA BELEN",
-          "monto": "",
+          "detalle": "FLETE DEMIAN ARIAS",
+          "monto": "727.452",
+          "formas": [],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        },
+        {
+          "detalle": "FLETE COSTANTINO",
+          "monto": "698.412",
+          "formas": [],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        },
+        {
+          "detalle": "SANCHEZ JONATAN",
+          "monto": "394.581",
           "formas": [],
           "plazo": "",
           "cbu": "",
