@@ -4022,8 +4022,9 @@
         }
       ],
       "observaciones": "PAGOS DE FLETES CON LIQUIDACION",
-      "estado": "pendiente",
-      "horaCarga": "09:48"
+      "estado": "gestionado",
+      "horaCarga": "09:48",
+      "fechaGestionadoIso": "2026-11-24T13:14:59.663Z"
     }
   ],
   "remitentesLista": [
