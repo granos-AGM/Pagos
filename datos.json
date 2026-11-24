@@ -3969,49 +3969,6 @@
       "estado": "gestionado",
       "horaCarga": "08:59 a.m.",
       "fechaGestionadoIso": "2026-11-24T12:41:01.607Z"
-    },
-    {
-      "id": "1795521722737",
-      "remitente": "Santiago",
-      "fecha": "2026-11-24",
-      "items": [
-        {
-          "detalle": "FLETE DEMIAN ARIAS",
-          "monto": "727.452",
-          "formas": [],
-          "plazo": "",
-          "cbu": "",
-          "vepPagador": "",
-          "vepContribuyente": "",
-          "linkPago": "",
-          "obsItem": ""
-        },
-        {
-          "detalle": "FLETE COSTANTINO",
-          "monto": "698.412",
-          "formas": [],
-          "plazo": "",
-          "cbu": "",
-          "vepPagador": "",
-          "vepContribuyente": "",
-          "linkPago": "",
-          "obsItem": ""
-        },
-        {
-          "detalle": "SANCHEZ JONATAN",
-          "monto": "394.581",
-          "formas": [],
-          "plazo": "",
-          "cbu": "",
-          "vepPagador": "",
-          "vepContribuyente": "",
-          "linkPago": "",
-          "obsItem": ""
-        }
-      ],
-      "observaciones": "PAGO DE FLETE CON LIQUIDACION",
-      "estado": "pendiente",
-      "horaCarga": "09:02"
     }
   ],
   "remitentesLista": [
