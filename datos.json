@@ -3968,6 +3968,27 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "08:59 a.m."
+    },
+    {
+      "id": "1795521722737",
+      "remitente": "Santiago",
+      "fecha": "2026-11-24",
+      "items": [
+        {
+          "detalle": "GAIDO MARIA BELEN",
+          "monto": "",
+          "formas": [],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "PAGO DE FLETE CON LIQUIDACION",
+      "estado": "pendiente",
+      "horaCarga": "09:02"
     }
   ],
   "remitentesLista": [
