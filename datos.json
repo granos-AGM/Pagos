@@ -4072,6 +4072,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "10:42"
+    },
+    {
+      "id": "1795614878581",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-26",
+      "items": [
+        {
+          "detalle": "LUMAX",
+          "monto": "101.640",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:54"
     }
   ],
   "remitentesLista": [
