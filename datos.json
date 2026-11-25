@@ -4143,6 +4143,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "14:08"
+    },
+    {
+      "id": "1795626647170",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-26",
+      "items": [
+        {
+          "detalle": "EXPRESO LANCIONI",
+          "monto": "99.361,87",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "AL DIA",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "Esta vencida la factura, se cargo en la cuenta (00151)."
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "14:10"
     }
   ],
   "remitentesLista": [
