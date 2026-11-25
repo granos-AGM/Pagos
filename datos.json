@@ -4095,6 +4095,30 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "10:54"
+    },
+    {
+      "id": "1795614995053",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-26",
+      "items": [
+        {
+          "detalle": "DYGELEC",
+          "monto": "876.360,20",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS FF.",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:56"
     }
   ],
   "remitentesLista": [
