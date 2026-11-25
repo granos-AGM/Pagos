@@ -4027,29 +4027,6 @@
       "fechaGestionadoIso": "2026-11-24T13:14:59.663Z"
     },
     {
-      "id": "1795613996029",
-      "remitente": "Maria Luz",
-      "fecha": "2026-11-26",
-      "items": [
-        {
-          "detalle": "SANCHEZ MAURICIO EDUARDO",
-          "monto": "142.627,52",
-          "formas": [
-            "Transferencia / CBU"
-          ],
-          "plazo": "",
-          "cbu": "",
-          "vepPagador": "",
-          "vepContribuyente": "",
-          "linkPago": "",
-          "obsItem": ""
-        }
-      ],
-      "observaciones": "",
-      "estado": "pendiente",
-      "horaCarga": "10:39"
-    },
-    {
       "id": "1795614135380",
       "remitente": "Maria Luz",
       "fecha": "2026-11-26",
