@@ -4048,6 +4048,30 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "10:39"
+    },
+    {
+      "id": "1795614135380",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-26",
+      "items": [
+        {
+          "detalle": "ROJOSOFT",
+          "monto": "1.198.656,25",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS FF.",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:42"
     }
   ],
   "remitentesLista": [
