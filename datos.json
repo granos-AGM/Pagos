@@ -4119,6 +4119,30 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "11:50"
+    },
+    {
+      "id": "1795626512437",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-26",
+      "items": [
+        {
+          "detalle": "SERVICIOS AGROINDUSTRIA",
+          "monto": "108.004,56",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "14:08"
     }
   ],
   "remitentesLista": [
