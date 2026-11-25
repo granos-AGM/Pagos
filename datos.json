@@ -4096,6 +4096,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "10:56"
+    },
+    {
+      "id": "1795618218690",
+      "remitente": "Maria Luz",
+      "fecha": "2026-11-26",
+      "items": [
+        {
+          "detalle": "SANCHEZ MAURICIO",
+          "monto": "156.462,3",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "FAC 5090-5093"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "11:50"
     }
   ],
   "remitentesLista": [
