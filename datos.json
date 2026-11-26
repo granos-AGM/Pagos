@@ -4243,6 +4243,29 @@
       "estado": "gestionado",
       "horaCarga": "09:11 a.m.",
       "fechaGestionadoIso": "2026-11-26T12:14:21.667Z"
+    },
+    {
+      "id": "1795695381852",
+      "remitente": "Alex",
+      "fecha": "2026-11-26",
+      "items": [
+        {
+          "detalle": "TRANSPORTE LOS JOAQUINES S.A.",
+          "monto": "1.400.000",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "30FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "107"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:16 a.m."
     }
   ],
   "remitentesLista": [
