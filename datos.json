@@ -4381,8 +4381,9 @@
         }
       ],
       "observaciones": "ESTA VENCIDA LA FACTURA, E-CHEQ AL DIA",
-      "estado": "pendiente",
-      "horaCarga": "09:37 a.m."
+      "estado": "gestionado",
+      "horaCarga": "09:37 a.m.",
+      "fechaGestionadoIso": "2026-11-26T12:52:14.155Z"
     },
     {
       "id": "1795696656271",
