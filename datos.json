@@ -4267,6 +4267,29 @@
       "estado": "gestionado",
       "horaCarga": "09:16 a.m.",
       "fechaGestionadoIso": "2026-11-26T12:18:15.793Z"
+    },
+    {
+      "id": "1795696485822",
+      "remitente": "Tomás",
+      "fecha": "2026-11-26",
+      "items": [
+        {
+          "detalle": "TEXFILT - FACTURA 8647",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:34 a.m."
     }
   ],
   "remitentesLista": [
