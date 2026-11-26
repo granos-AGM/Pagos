@@ -4358,8 +4358,9 @@
         }
       ],
       "observaciones": "SI PUEDEN SER CHEQUES FISICOS MEJOR, SI NO E-CHEQ. ELLOS RETIRAN EL PAGO EN CASO DE CHEQUES FISICOS.",
-      "estado": "pendiente",
-      "horaCarga": "09:36 a.m."
+      "estado": "gestionado",
+      "horaCarga": "09:36 a.m.",
+      "fechaGestionadoIso": "2026-11-26T12:55:54.629Z"
     },
     {
       "id": "1795696628787",
