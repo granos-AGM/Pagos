@@ -4196,6 +4196,29 @@
       "estado": "gestionado",
       "horaCarga": "14:25",
       "fechaGestionadoIso": "2026-11-26T11:56:27.590Z"
+    },
+    {
+      "id": "1795694876108",
+      "remitente": "Alex",
+      "fecha": "2026-11-26",
+      "items": [
+        {
+          "detalle": "ECHEVARRIA FEDERICO JOSE",
+          "monto": "1.270.500",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "A"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:07 a.m."
     }
   ],
   "remitentesLista": [
