@@ -4452,8 +4452,9 @@
         }
       ],
       "observaciones": "",
-      "estado": "pendiente",
-      "horaCarga": "09:38 a.m."
+      "estado": "gestionado",
+      "horaCarga": "09:38 a.m.",
+      "fechaGestionadoIso": "2026-11-26T12:44:22.776Z"
     }
   ],
   "remitentesLista": [
