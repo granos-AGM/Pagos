@@ -4313,6 +4313,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:35 a.m."
+    },
+    {
+      "id": "1795696533875",
+      "remitente": "Tomás",
+      "fecha": "2026-11-26",
+      "items": [
+        {
+          "detalle": "MINETTI",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:35 a.m."
     }
   ],
   "remitentesLista": [
