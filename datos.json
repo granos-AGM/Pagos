@@ -4290,6 +4290,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:34 a.m."
+    },
+    {
+      "id": "1795696521537",
+      "remitente": "Tomás",
+      "fecha": "2026-11-26",
+      "items": [
+        {
+          "detalle": "EPECUEN - FACTURA 31907",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:35 a.m."
     }
   ],
   "remitentesLista": [
