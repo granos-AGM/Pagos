@@ -4383,6 +4383,30 @@
       "observaciones": "ESTA VENCIDA LA FACTURA, E-CHEQ AL DIA",
       "estado": "pendiente",
       "horaCarga": "09:37 a.m."
+    },
+    {
+      "id": "1795696656271",
+      "remitente": "Tomás",
+      "fecha": "2026-11-26",
+      "items": [
+        {
+          "detalle": "TADEO GALBAÑO - FACTURA 2808",
+          "monto": "",
+          "formas": [
+            "Cheque Físico",
+            "Efectivo / Otro"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "MITAD CHEQUES, MITAD EFECTIVO",
+      "estado": "pendiente",
+      "horaCarga": "09:37 a.m."
     }
   ],
   "remitentesLista": [
