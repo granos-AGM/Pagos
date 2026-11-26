@@ -4430,6 +4430,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:37 a.m."
+    },
+    {
+      "id": "1795696726382",
+      "remitente": "Alex",
+      "fecha": "2026-11-26",
+      "items": [
+        {
+          "detalle": "FERRERO, CELSIO SEBASTIAN Y FERRERO, JIM",
+          "monto": "5.150.000",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "30 FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "107"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "09:38 a.m."
     }
   ],
   "remitentesLista": [
