@@ -4336,6 +4336,30 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "09:35 a.m."
+    },
+    {
+      "id": "1795696587913",
+      "remitente": "Tomás",
+      "fecha": "2026-11-26",
+      "items": [
+        {
+          "detalle": "MCGIS S.A.S. - FACTURA 11",
+          "monto": "",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "SI PUEDEN SER CHEQUES FISICOS MEJOR, SI NO E-CHEQ. ELLOS RETIRAN EL PAGO EN CASO DE CHEQUES FISICOS.",
+      "estado": "pendiente",
+      "horaCarga": "09:36 a.m."
     }
   ],
   "remitentesLista": [
