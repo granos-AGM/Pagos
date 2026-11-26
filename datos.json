@@ -4460,6 +4460,30 @@
       "estado": "gestionado",
       "horaCarga": "09:38 a.m.",
       "fechaGestionadoIso": "2026-11-26T12:44:22.776Z"
+    },
+    {
+      "id": "1795698300857",
+      "remitente": "Alex",
+      "fecha": "2026-11-26",
+      "items": [
+        {
+          "detalle": "HORIZONTE LOGISTICA",
+          "monto": "",
+          "formas": [
+            "E-Cheque",
+            "Cheque Físico"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "A"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:05 a.m."
     }
   ],
   "remitentesLista": [
