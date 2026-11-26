@@ -4487,6 +4487,29 @@
       "estado": "gestionado",
       "horaCarga": "10:05 a.m.",
       "fechaGestionadoIso": "2026-11-26T13:13:26.970Z"
+    },
+    {
+      "id": "1795700461100",
+      "remitente": "Alex",
+      "fecha": "2026-11-26",
+      "items": [
+        {
+          "detalle": "MEDINA ABEL DARIO",
+          "monto": "1.874.000",
+          "formas": [
+            "Cheque Físico"
+          ],
+          "plazo": "30FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "107"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:41 a.m."
     }
   ],
   "remitentesLista": [
