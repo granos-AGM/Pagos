@@ -4360,6 +4360,29 @@
       "observaciones": "SI PUEDEN SER CHEQUES FISICOS MEJOR, SI NO E-CHEQ. ELLOS RETIRAN EL PAGO EN CASO DE CHEQUES FISICOS.",
       "estado": "pendiente",
       "horaCarga": "09:36 a.m."
+    },
+    {
+      "id": "1795696628787",
+      "remitente": "Tomás",
+      "fecha": "2026-11-26",
+      "items": [
+        {
+          "detalle": "GU-DAR",
+          "monto": "",
+          "formas": [
+            "E-Cheque"
+          ],
+          "plazo": "30 DIAS FF",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "ESTA VENCIDA LA FACTURA, E-CHEQ AL DIA",
+      "estado": "pendiente",
+      "horaCarga": "09:37 a.m."
     }
   ],
   "remitentesLista": [
