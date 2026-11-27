@@ -4512,6 +4512,30 @@
       "estado": "gestionado",
       "horaCarga": "10:46",
       "fechaGestionadoIso": "2026-11-26T14:03:40.180Z"
+    },
+    {
+      "id": "1795786091481",
+      "remitente": "Tomás",
+      "fecha": "2026-11-27",
+      "items": [
+        {
+          "detalle": "CENTRO PALLETS",
+          "monto": "10.000.000",
+          "formas": [
+            "Cheque Físico",
+            "107"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": "En la medida de lo posible $ 3 millones en cheques chicos de 300/400.000"
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "10:28 a.m."
     }
   ],
   "remitentesLista": [
