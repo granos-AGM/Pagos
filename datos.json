@@ -4536,6 +4536,29 @@
       "observaciones": "",
       "estado": "pendiente",
       "horaCarga": "10:28 a.m."
+    },
+    {
+      "id": "1795806679974",
+      "remitente": "Tomás",
+      "fecha": "2026-11-27",
+      "items": [
+        {
+          "detalle": "MADINAT ILIBERIS - FACTURA 41",
+          "monto": "470.895,85",
+          "formas": [
+            "Transferencia / CBU"
+          ],
+          "plazo": "",
+          "cbu": "",
+          "vepPagador": "",
+          "vepContribuyente": "",
+          "linkPago": "",
+          "obsItem": ""
+        }
+      ],
+      "observaciones": "",
+      "estado": "pendiente",
+      "horaCarga": "04:11 p.m."
     }
   ],
   "remitentesLista": [
